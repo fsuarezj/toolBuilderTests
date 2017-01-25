@@ -1,0 +1,53 @@
+{
+  "uid" : "3188e024ec192d21",
+  "name" : "Given the admin user is on the Tool Builder admin page",
+  "title" : "Given the admin user is on the Tool Builder admin page",
+  "time" : {
+    "start" : 1480764408734,
+    "stop" : 1480764408734,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "75028696e998e85d",
+    "name" : "Delete associated tool instances, deselect and delete an existing Tool Definition",
+    "title" : "Delete associated tool instances, deselect and delete an existing Tool Definition"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "casiopea"
+  }, {
+    "name" : "thread",
+    "value" : "22747@casiopea.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Delete associated tool instances, deselect and delete an existing Tool Definition"
+  }, {
+    "name" : "suite-title",
+    "value" : "Delete associated tool instances, deselect and delete an existing Tool Definition"
+  }, {
+    "name" : "story",
+    "value" : "Delete associated tool instances, deselect and delete an existing Tool Definition"
+  }, {
+    "name" : "feature",
+    "value" : "Delete and Edit Management"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

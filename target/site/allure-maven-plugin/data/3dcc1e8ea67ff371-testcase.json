@@ -1,0 +1,53 @@
+{
+  "uid" : "3dcc1e8ea67ff371",
+  "name" : "And a tool definition called \"Mock Tool Type\" does not exist",
+  "title" : "And a tool definition called \"Mock Tool Type\" does not exist",
+  "time" : {
+    "start" : 1485211971955,
+    "stop" : 1485211971955,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "593f53e705e82f78",
+    "name" : "Delete existing tool definitions",
+    "title" : "Delete existing tool definitions"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "11035@casiopea.main(1)"
+  }, {
+    "name" : "story",
+    "value" : "Delete existing tool definitions"
+  }, {
+    "name" : "suite-name",
+    "value" : "Delete existing tool definitions"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "suite-title",
+    "value" : "Delete existing tool definitions"
+  }, {
+    "name" : "feature",
+    "value" : "Delete Tool Definition"
+  }, {
+    "name" : "host",
+    "value" : "casiopea"
+  } ],
+  "parameters" : [ ]
+}

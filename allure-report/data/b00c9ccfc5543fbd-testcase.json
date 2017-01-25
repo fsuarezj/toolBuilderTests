@@ -1,0 +1,53 @@
+{
+  "uid" : "b00c9ccfc5543fbd",
+  "name" : "And she saves the steps order",
+  "title" : "And she saves the steps order",
+  "time" : {
+    "start" : 1480764368506,
+    "stop" : 1480764368506,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "af7a23f4a7a775ff",
+    "name" : "Edit an existing Tool Definition",
+    "title" : "Edit an existing Tool Definition"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "casiopea"
+  }, {
+    "name" : "thread",
+    "value" : "22747@casiopea.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Edit an existing Tool Definition"
+  }, {
+    "name" : "suite-title",
+    "value" : "Edit an existing Tool Definition"
+  }, {
+    "name" : "story",
+    "value" : "Edit an existing Tool Definition"
+  }, {
+    "name" : "feature",
+    "value" : "Edit Tool Definition"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

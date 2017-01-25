@@ -1,0 +1,53 @@
+{
+  "uid" : "5cac83d69e7337c9",
+  "name" : "And the step 3 is in the position 3",
+  "title" : "And the step 3 is in the position 3",
+  "time" : {
+    "start" : 1485211756585,
+    "stop" : 1485211756585,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "fcce5442d961812",
+    "name" : "Move a step to the beginning and save",
+    "title" : "Move a step to the beginning and save"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "11035@casiopea.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Edit Tool Definition"
+  }, {
+    "name" : "story",
+    "value" : "Move a step to the beginning and save"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "suite-name",
+    "value" : "Move a step to the beginning and save"
+  }, {
+    "name" : "suite-title",
+    "value" : "Move a step to the beginning and save"
+  }, {
+    "name" : "host",
+    "value" : "casiopea"
+  } ],
+  "parameters" : [ ]
+}

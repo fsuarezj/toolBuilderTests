@@ -1,0 +1,53 @@
+{
+  "uid" : "e3a9152fe8d2a39f",
+  "name" : "Then a tooltip message with text \"unselect-or-delete-instances-to-configure-delete-tooldef\" is shown for the buttons on tool definition \"My New Tool Type\"",
+  "title" : "Then a tooltip message with text \"unselect-or-delete-instances-to-configure-delete-tooldef\" is shown for the buttons on tool definition \"My New Tool Type\"",
+  "time" : {
+    "start" : 1480764385675,
+    "stop" : 1480764385675,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "3a1718c2133e2ad9",
+    "name" : "Try to edit or delete the selected Tool Definition with tool instances associated",
+    "title" : "Try to edit or delete the selected Tool Definition with tool instances associated"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "casiopea"
+  }, {
+    "name" : "thread",
+    "value" : "22747@casiopea.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Try to edit or delete the selected Tool Definition with tool instances associated"
+  }, {
+    "name" : "suite-title",
+    "value" : "Try to edit or delete the selected Tool Definition with tool instances associated"
+  }, {
+    "name" : "story",
+    "value" : "Try to edit or delete the selected Tool Definition with tool instances associated"
+  }, {
+    "name" : "feature",
+    "value" : "Delete and Edit Management"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

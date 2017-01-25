@@ -1,0 +1,53 @@
+{
+  "uid" : "3abc031ac81a25d7",
+  "name" : "Then the tool instance called \"My New Tool Def Instance\" is on step 3",
+  "title" : "Then the tool instance called \"My New Tool Def Instance\" is on step 3",
+  "time" : {
+    "start" : 1485211660348,
+    "stop" : 1485211660348,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "773005157bb2e53f",
+    "name" : "Use new Tool Definition",
+    "title" : "Use new Tool Definition"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Use new Tool Definition"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "11035@casiopea.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Use new Tool Definition"
+  }, {
+    "name" : "feature",
+    "value" : "Create Tool Definition"
+  }, {
+    "name" : "suite-title",
+    "value" : "Use new Tool Definition"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "casiopea"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "a792ad92989ba9a7",
+  "name" : "And she logs out",
+  "title" : "And she logs out",
+  "time" : {
+    "start" : 1480764411038,
+    "stop" : 1480764411038,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "159ce61608e4787",
+    "name" : "Delete associated tool instances, deselect and delete an existing Tool Definition",
+    "title" : "Delete associated tool instances, deselect and delete an existing Tool Definition"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "casiopea"
+  }, {
+    "name" : "thread",
+    "value" : "22747@casiopea.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Delete associated tool instances, deselect and delete an existing Tool Definition"
+  }, {
+    "name" : "suite-title",
+    "value" : "Delete associated tool instances, deselect and delete an existing Tool Definition"
+  }, {
+    "name" : "story",
+    "value" : "Delete associated tool instances, deselect and delete an existing Tool Definition"
+  }, {
+    "name" : "feature",
+    "value" : "Delete and Edit Management"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

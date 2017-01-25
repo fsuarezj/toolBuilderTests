@@ -1,0 +1,53 @@
+{
+  "uid" : "944fe7974a35edc9",
+  "name" : "And she adds a step of type MOCK",
+  "title" : "And she adds a step of type MOCK",
+  "time" : {
+    "start" : 1480764354376,
+    "stop" : 1480764354376,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "9fd8f1bdf8061292",
+    "name" : "Try to create an existing Tool Definition and change the name",
+    "title" : "Try to create an existing Tool Definition and change the name"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "casiopea"
+  }, {
+    "name" : "thread",
+    "value" : "22747@casiopea.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Try to create an existing Tool Definition and change the name"
+  }, {
+    "name" : "suite-title",
+    "value" : "Try to create an existing Tool Definition and change the name"
+  }, {
+    "name" : "story",
+    "value" : "Try to create an existing Tool Definition and change the name"
+  }, {
+    "name" : "feature",
+    "value" : "Create Tool Definition"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "843b56fa7570b8bc",
+  "name" : "When she chooses to step forward",
+  "title" : "When she chooses to step forward",
+  "time" : {
+    "start" : 1485211659885,
+    "stop" : 1485211659885,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "773005157bb2e53f",
+    "name" : "Use new Tool Definition",
+    "title" : "Use new Tool Definition"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Use new Tool Definition"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "11035@casiopea.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Use new Tool Definition"
+  }, {
+    "name" : "feature",
+    "value" : "Create Tool Definition"
+  }, {
+    "name" : "suite-title",
+    "value" : "Use new Tool Definition"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "casiopea"
+  } ],
+  "parameters" : [ ]
+}

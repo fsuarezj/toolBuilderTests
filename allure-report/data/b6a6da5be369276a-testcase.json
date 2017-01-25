@@ -1,0 +1,53 @@
+{
+  "uid" : "b6a6da5be369276a",
+  "name" : "When she chooses to create a new tool definition",
+  "title" : "When she chooses to create a new tool definition",
+  "time" : {
+    "start" : 1480764312471,
+    "stop" : 1480764312471,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "cb8751d8fba6d388",
+    "name" : "Create a new Tool Definition",
+    "title" : "Create a new Tool Definition"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "casiopea"
+  }, {
+    "name" : "thread",
+    "value" : "22747@casiopea.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Create a new Tool Definition"
+  }, {
+    "name" : "suite-title",
+    "value" : "Create a new Tool Definition"
+  }, {
+    "name" : "story",
+    "value" : "Create a new Tool Definition"
+  }, {
+    "name" : "feature",
+    "value" : "Create Tool Definition"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

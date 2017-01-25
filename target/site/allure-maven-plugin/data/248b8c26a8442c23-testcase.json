@@ -1,0 +1,53 @@
+{
+  "uid" : "248b8c26a8442c23",
+  "name" : "And she adds a step of type MOCK",
+  "title" : "And she adds a step of type MOCK",
+  "time" : {
+    "start" : 1485211805055,
+    "stop" : 1485211805055,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "cd8dfdf8115f68d6",
+    "name" : "Delete an existing step definition",
+    "title" : "Delete an existing step definition"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-title",
+    "value" : "Delete an existing step definition"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "11035@casiopea.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Delete Step Definitions"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "suite-name",
+    "value" : "Delete an existing step definition"
+  }, {
+    "name" : "story",
+    "value" : "Delete an existing step definition"
+  }, {
+    "name" : "host",
+    "value" : "casiopea"
+  } ],
+  "parameters" : [ ]
+}

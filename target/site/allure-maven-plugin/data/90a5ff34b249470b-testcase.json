@@ -1,0 +1,53 @@
+{
+  "uid" : "90a5ff34b249470b",
+  "name" : "Given the admin user is on the Tool Builder admin page",
+  "title" : "Given the admin user is on the Tool Builder admin page",
+  "time" : {
+    "start" : 1485211687723,
+    "stop" : 1485211687723,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "1cf8c990ece7c24f",
+    "name" : "Move a step forward without saving",
+    "title" : "Move a step forward without saving"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-title",
+    "value" : "Move a step forward without saving"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "11035@casiopea.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Edit Tool Definition"
+  }, {
+    "name" : "suite-name",
+    "value" : "Move a step forward without saving"
+  }, {
+    "name" : "story",
+    "value" : "Move a step forward without saving"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "casiopea"
+  } ],
+  "parameters" : [ ]
+}

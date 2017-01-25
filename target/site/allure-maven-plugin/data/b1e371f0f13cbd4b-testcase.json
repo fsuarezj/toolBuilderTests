@@ -1,0 +1,53 @@
+{
+  "uid" : "b1e371f0f13cbd4b",
+  "name" : "Then the current tool definition has 0 step definitions",
+  "title" : "Then the current tool definition has 0 step definitions",
+  "time" : {
+    "start" : 1485211929080,
+    "stop" : 1485211929080,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "36a46084354f596c",
+    "name" : "Delete a newly created step definition of a newly created tool definition",
+    "title" : "Delete a newly created step definition of a newly created tool definition"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "11035@casiopea.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : "Delete a newly created step definition of a newly created tool definition"
+  }, {
+    "name" : "feature",
+    "value" : "Delete Step Definitions"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "story",
+    "value" : "Delete a newly created step definition of a newly created tool definition"
+  }, {
+    "name" : "suite-name",
+    "value" : "Delete a newly created step definition of a newly created tool definition"
+  }, {
+    "name" : "host",
+    "value" : "casiopea"
+  } ],
+  "parameters" : [ ]
+}

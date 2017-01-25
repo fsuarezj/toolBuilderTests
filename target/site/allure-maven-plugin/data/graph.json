@@ -1,0 +1,2775 @@
+{
+  "testCases" : [ {
+    "uid" : "eabf7b15561374c9",
+    "name" : "Given the admin user is on the Tool Builder admin page",
+    "title" : "Given the admin user is on the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211666756,
+      "stop" : 1485211666756,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "6ebb05ab82284f41",
+    "name" : "And a tool definition called \"My New Tool Type\" exists",
+    "title" : "And a tool definition called \"My New Tool Type\" exists",
+    "time" : {
+      "start" : 1485211666803,
+      "stop" : 1485211666803,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "d90af322ef6bd641",
+    "name" : "When she chooses to create a new tool definition",
+    "title" : "When she chooses to create a new tool definition",
+    "time" : {
+      "start" : 1485211666883,
+      "stop" : 1485211666883,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "e7059665e9574a98",
+    "name" : "And she provides the tool definition name as \"My New Tool Type\"",
+    "title" : "And she provides the tool definition name as \"My New Tool Type\"",
+    "time" : {
+      "start" : 1485211667122,
+      "stop" : 1485211667122,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "b6b70933340bcc71",
+    "name" : "Then an error message with text \"Tool Definition called \"My New Tool Type\" already exists\" is shown for the new tool definition",
+    "title" : "Then an error message with text \"Tool Definition called \"My New Tool Type\" already exists\" is shown for the new tool definition",
+    "time" : {
+      "start" : 1485211667153,
+      "stop" : 1485211667153,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "6a8d4f6c9f11957a",
+    "name" : "Given the admin user is on the Tool Builder admin page",
+    "title" : "Given the admin user is on the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211719273,
+      "stop" : 1485211719273,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "938bbdf827816208",
+    "name" : "And she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "title" : "And she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "time" : {
+      "start" : 1485211720808,
+      "stop" : 1485211720808,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "571cac31f0cb605b",
+    "name" : "And the steps positions are defined to compare",
+    "title" : "And the steps positions are defined to compare",
+    "time" : {
+      "start" : 1485211721002,
+      "stop" : 1485211721002,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f673646ec001e4a5",
+    "name" : "When she moves the step 2 to step 1",
+    "title" : "When she moves the step 2 to step 1",
+    "time" : {
+      "start" : 1485211722396,
+      "stop" : 1485211722396,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "7eb452a5fd6f74a2",
+    "name" : "And she saves the steps order",
+    "title" : "And she saves the steps order",
+    "time" : {
+      "start" : 1485211724446,
+      "stop" : 1485211724446,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "af97040ee1ddafa8",
+    "name" : "Then the step 1 is in the position 1",
+    "title" : "Then the step 1 is in the position 1",
+    "time" : {
+      "start" : 1485211724560,
+      "stop" : 1485211724560,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "a62e2267bc6903ca",
+    "name" : "And the former step 1 is in the position 2",
+    "title" : "And the former step 1 is in the position 2",
+    "time" : {
+      "start" : 1485211724717,
+      "stop" : 1485211724717,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "3e2af2c1658084a7",
+    "name" : "And the step 2 is in the position 2",
+    "title" : "And the step 2 is in the position 2",
+    "time" : {
+      "start" : 1485211724807,
+      "stop" : 1485211724807,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "6a1e5133252c6d28",
+    "name" : "And the former step 2 is in the position 1",
+    "title" : "And the former step 2 is in the position 1",
+    "time" : {
+      "start" : 1485211724885,
+      "stop" : 1485211724885,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f165f325ad4f89c3",
+    "name" : "And the step 3 is in the position 3",
+    "title" : "And the step 3 is in the position 3",
+    "time" : {
+      "start" : 1485211724968,
+      "stop" : 1485211724968,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f06d6ea5bbbe202e",
+    "name" : "And the former step 3 is in the position 3",
+    "title" : "And the former step 3 is in the position 3",
+    "time" : {
+      "start" : 1485211725057,
+      "stop" : 1485211725057,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "91934ef0be270ae5",
+    "name" : "And she returns to the Tool Definition admin page",
+    "title" : "And she returns to the Tool Definition admin page",
+    "time" : {
+      "start" : 1485211725109,
+      "stop" : 1485211725109,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "5166c871e1e67ceb",
+    "name" : "Given the admin user goes to the Tool Builder admin page",
+    "title" : "Given the admin user goes to the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211616353,
+      "stop" : 1485211616353,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "a4938d85ee90df1d",
+    "name" : "And a tool definition called \"Test Tool\" exists",
+    "title" : "And a tool definition called \"Test Tool\" exists",
+    "time" : {
+      "start" : 1485211616436,
+      "stop" : 1485211616436,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "37dafdb31b2349e6",
+    "name" : "And a tool definition called \"Test Tool 2\" exists",
+    "title" : "And a tool definition called \"Test Tool 2\" exists",
+    "time" : {
+      "start" : 1485211616467,
+      "stop" : 1485211616467,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f950e9e6c446ffe6",
+    "name" : "When the user selects \"Test Tool\" as default tool definition",
+    "title" : "When the user selects \"Test Tool\" as default tool definition",
+    "time" : {
+      "start" : 1485211617135,
+      "stop" : 1485211617135,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "16ec09a2351df7ab",
+    "name" : "When the name of the selected tool definition is \"Test Tool\"",
+    "title" : "When the name of the selected tool definition is \"Test Tool\"",
+    "time" : {
+      "start" : 1485211617323,
+      "stop" : 1485211617323,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "3884f68adafccc0d",
+    "name" : "And she goes to the Tool Instances Navigation Page",
+    "title" : "And she goes to the Tool Instances Navigation Page",
+    "time" : {
+      "start" : 1485211617638,
+      "stop" : 1485211617638,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "ec4e1f27b7d7a010",
+    "name" : "And the name of the tool definition is \"Test Tool\"",
+    "title" : "And the name of the tool definition is \"Test Tool\"",
+    "time" : {
+      "start" : 1485211617691,
+      "stop" : 1485211617691,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "e330b4148c6138b4",
+    "name" : "Given the admin user is on the Tool Builder admin page",
+    "title" : "Given the admin user is on the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211855228,
+      "stop" : 1485211855228,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "4a3db018182a1f46",
+    "name" : "And she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "title" : "And she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "time" : {
+      "start" : 1485211856008,
+      "stop" : 1485211856008,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "5485eedb0d0fcefb",
+    "name" : "And she adds a step of type MOCK",
+    "title" : "And she adds a step of type MOCK",
+    "time" : {
+      "start" : 1485211857099,
+      "stop" : 1485211857099,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "5a46d67ceeeb9bbb",
+    "name" : "When she clicks to delete the step 1",
+    "title" : "When she clicks to delete the step 1",
+    "time" : {
+      "start" : 1485211857152,
+      "stop" : 1485211857152,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "79da71d557f45b90",
+    "name" : "And she confirms the step deletion",
+    "title" : "And she confirms the step deletion",
+    "time" : {
+      "start" : 1485211857762,
+      "stop" : 1485211857762,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "772771184e1cb0d3",
+    "name" : "And she returns to the Tool Definition admin page",
+    "title" : "And she returns to the Tool Definition admin page",
+    "time" : {
+      "start" : 1485211857838,
+      "stop" : 1485211857838,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "cc63e74c5f818aab",
+    "name" : "And she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "title" : "And she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "time" : {
+      "start" : 1485211858798,
+      "stop" : 1485211858798,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "9bdfd35fc3ae3a43",
+    "name" : "Then the current tool definition has 0 step definitions",
+    "title" : "Then the current tool definition has 0 step definitions",
+    "time" : {
+      "start" : 1485211888871,
+      "stop" : 1485211888871,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "63f3ede263a47270",
+    "name" : "Given the user is on the Tool Instances Navigation Page",
+    "title" : "Given the user is on the Tool Instances Navigation Page",
+    "time" : {
+      "start" : 1485211992964,
+      "stop" : 1485211992964,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "82a6481b891c2839",
+    "name" : "And there are no Tool Instances",
+    "title" : "And there are no Tool Instances",
+    "time" : {
+      "start" : 1485211993020,
+      "stop" : 1485211993020,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "3780f58a99fab7c8",
+    "name" : "When the admin user goes to the Tool Builder admin page",
+    "title" : "When the admin user goes to the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211995181,
+      "stop" : 1485211995181,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "9e9d162217a5d8e5",
+    "name" : "And the name of the selected tool definition is \"Test Tool 2\"",
+    "title" : "And the name of the selected tool definition is \"Test Tool 2\"",
+    "time" : {
+      "start" : 1485211995370,
+      "stop" : 1485211995370,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "6e4ab91480c6e549",
+    "name" : "Then a tooltip message with text \"unselect-or-delete-instances-to-configure-delete-tooldef\" is shown for the buttons on tool definition \"Test Tool 2\"",
+    "title" : "Then a tooltip message with text \"unselect-or-delete-instances-to-configure-delete-tooldef\" is shown for the buttons on tool definition \"Test Tool 2\"",
+    "time" : {
+      "start" : 1485211996009,
+      "stop" : 1485211996009,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f82e3c73d2fbae5",
+    "name" : "And the button to delete the tool definition called \"Test Tool 2\" is disabled",
+    "title" : "And the button to delete the tool definition called \"Test Tool 2\" is disabled",
+    "time" : {
+      "start" : 1485211996090,
+      "stop" : 1485211996090,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "8f910e66ab84d9e0",
+    "name" : "And the button to configure the tool definition called \"Test Tool 2\" is disabled",
+    "title" : "And the button to configure the tool definition called \"Test Tool 2\" is disabled",
+    "time" : {
+      "start" : 1485211996165,
+      "stop" : 1485211996165,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "90a5ff34b249470b",
+    "name" : "Given the admin user is on the Tool Builder admin page",
+    "title" : "Given the admin user is on the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211687723,
+      "stop" : 1485211687723,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "17cc1312a8af8843",
+    "name" : "And she chooses to create a new tool definition",
+    "title" : "And she chooses to create a new tool definition",
+    "time" : {
+      "start" : 1485211687802,
+      "stop" : 1485211687802,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "572df97ca5e7c8f2",
+    "name" : "And she provides the tool definition name as \"My editTest Tool Type\"",
+    "title" : "And she provides the tool definition name as \"My editTest Tool Type\"",
+    "time" : {
+      "start" : 1485211689083,
+      "stop" : 1485211689083,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "b203188261eb48aa",
+    "name" : "And she adds a step of type MOCK",
+    "title" : "And she adds a step of type MOCK",
+    "time" : {
+      "start" : 1485211690164,
+      "stop" : 1485211690164,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "897e9b24bb973ddd",
+    "name" : "And she adds a step of type MOCK",
+    "title" : "And she adds a step of type MOCK",
+    "time" : {
+      "start" : 1485211691183,
+      "stop" : 1485211691183,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "255d59cb0fe9b3b1",
+    "name" : "And she adds a step of type MOCK",
+    "title" : "And she adds a step of type MOCK",
+    "time" : {
+      "start" : 1485211692721,
+      "stop" : 1485211692721,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "c54ab141c03bdacf",
+    "name" : "And she returns to the Tool Definition admin page",
+    "title" : "And she returns to the Tool Definition admin page",
+    "time" : {
+      "start" : 1485211692803,
+      "stop" : 1485211692803,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "aaf58acf7848480a",
+    "name" : "And she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "title" : "And she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "time" : {
+      "start" : 1485211694404,
+      "stop" : 1485211694404,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "3f4ad6eebc9ff97c",
+    "name" : "When she moves the step 2 to step 3",
+    "title" : "When she moves the step 2 to step 3",
+    "time" : {
+      "start" : 1485211698988,
+      "stop" : 1485211698988,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "da398df6ee50b540",
+    "name" : "Then the step 2 is in the position 3",
+    "title" : "Then the step 2 is in the position 3",
+    "time" : {
+      "start" : 1485211699323,
+      "stop" : 1485211699323,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "a8ab9f8af76d4a70",
+    "name" : "Then the step 3 is in the position 2",
+    "title" : "Then the step 3 is in the position 2",
+    "time" : {
+      "start" : 1485211699454,
+      "stop" : 1485211699454,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "b7b2464b3643a12",
+    "name" : "And the step 2 is not in the position 2",
+    "title" : "And the step 2 is not in the position 2",
+    "time" : {
+      "start" : 1485211699564,
+      "stop" : 1485211699564,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "74150d777a68d77d",
+    "name" : "And the step 3 is not in the position 3",
+    "title" : "And the step 3 is not in the position 3",
+    "time" : {
+      "start" : 1485211699699,
+      "stop" : 1485211699699,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "417c25c9cdf6bd3a",
+    "name" : "Given the admin user is on the Tool Builder admin page",
+    "title" : "Given the admin user is on the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211801893,
+      "stop" : 1485211801893,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "656b4014e2a76802",
+    "name" : "And she chooses to create a new tool definition",
+    "title" : "And she chooses to create a new tool definition",
+    "time" : {
+      "start" : 1485211801979,
+      "stop" : 1485211801979,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "2bfe7ec14ce5bf76",
+    "name" : "And she provides the tool definition name as \"My editTest Tool Type\"",
+    "title" : "And she provides the tool definition name as \"My editTest Tool Type\"",
+    "time" : {
+      "start" : 1485211802966,
+      "stop" : 1485211802966,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "62bb8b649486ce44",
+    "name" : "And she adds a step of type MOCK",
+    "title" : "And she adds a step of type MOCK",
+    "time" : {
+      "start" : 1485211804033,
+      "stop" : 1485211804033,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "248b8c26a8442c23",
+    "name" : "And she adds a step of type MOCK",
+    "title" : "And she adds a step of type MOCK",
+    "time" : {
+      "start" : 1485211805055,
+      "stop" : 1485211805055,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "e39e96de3f015ff9",
+    "name" : "And she adds a step of type MOCK",
+    "title" : "And she adds a step of type MOCK",
+    "time" : {
+      "start" : 1485211806048,
+      "stop" : 1485211806048,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "1b014b74ea7ef7f5",
+    "name" : "And she returns to the Tool Definition admin page",
+    "title" : "And she returns to the Tool Definition admin page",
+    "time" : {
+      "start" : 1485211806132,
+      "stop" : 1485211806132,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "9a410df622c09b69",
+    "name" : "And she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "title" : "And she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "time" : {
+      "start" : 1485211807166,
+      "stop" : 1485211807166,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "399465380606d11c",
+    "name" : "And the current tool definition has 3 step definitions",
+    "title" : "And the current tool definition has 3 step definitions",
+    "time" : {
+      "start" : 1485211807238,
+      "stop" : 1485211807239,
+      "duration" : 1
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "bb6db360b1ef3b6a",
+    "name" : "And the steps positions are defined to compare",
+    "title" : "And the steps positions are defined to compare",
+    "time" : {
+      "start" : 1485211807347,
+      "stop" : 1485211807347,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "61fb3d75c48c4c96",
+    "name" : "When she clicks to delete the step 2",
+    "title" : "When she clicks to delete the step 2",
+    "time" : {
+      "start" : 1485211807395,
+      "stop" : 1485211807395,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "8285eff90ceeaad5",
+    "name" : "And she confirms the step deletion",
+    "title" : "And she confirms the step deletion",
+    "time" : {
+      "start" : 1485211808081,
+      "stop" : 1485211808081,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "3e55f7c95322c0d1",
+    "name" : "And she saves the steps order",
+    "title" : "And she saves the steps order",
+    "time" : {
+      "start" : 1485211810133,
+      "stop" : 1485211810133,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "19fd306ee242f259",
+    "name" : "And the former step 3 is in the position 2",
+    "title" : "And the former step 3 is in the position 2",
+    "time" : {
+      "start" : 1485211810272,
+      "stop" : 1485211810272,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "e6931834de9d49c2",
+    "name" : "And the current tool definition has 2 step definitions",
+    "title" : "And the current tool definition has 2 step definitions",
+    "time" : {
+      "start" : 1485211810316,
+      "stop" : 1485211810316,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "fe8a45fdbd17779c",
+    "name" : "Given the admin user is on the Tool Builder admin page",
+    "title" : "Given the admin user is on the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211895071,
+      "stop" : 1485211895071,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "9b3ecf3214b229cd",
+    "name" : "And she chooses to create a new tool definition",
+    "title" : "And she chooses to create a new tool definition",
+    "time" : {
+      "start" : 1485211895153,
+      "stop" : 1485211895153,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "da3fb7761b2a0b52",
+    "name" : "And she provides the tool definition name as \"My editTest Tool Type 2\"",
+    "title" : "And she provides the tool definition name as \"My editTest Tool Type 2\"",
+    "time" : {
+      "start" : 1485211896060,
+      "stop" : 1485211896060,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "c802646063fa7b6f",
+    "name" : "And she adds a step of type MOCK",
+    "title" : "And she adds a step of type MOCK",
+    "time" : {
+      "start" : 1485211897125,
+      "stop" : 1485211897125,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "1e03cbb3190b19d2",
+    "name" : "When she clicks to delete the step 1",
+    "title" : "When she clicks to delete the step 1",
+    "time" : {
+      "start" : 1485211897199,
+      "stop" : 1485211897200,
+      "duration" : 1
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "b33c544e38598744",
+    "name" : "And she confirms the step deletion",
+    "title" : "And she confirms the step deletion",
+    "time" : {
+      "start" : 1485211897813,
+      "stop" : 1485211897813,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "9f352ac4f1bd590",
+    "name" : "And she returns to the Tool Definition admin page",
+    "title" : "And she returns to the Tool Definition admin page",
+    "time" : {
+      "start" : 1485211897885,
+      "stop" : 1485211897885,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "5ca7a3d82b76913e",
+    "name" : "And she chooses to edit the tool definition called \"My editTest Tool Type 2\"",
+    "title" : "And she chooses to edit the tool definition called \"My editTest Tool Type 2\"",
+    "time" : {
+      "start" : 1485211898825,
+      "stop" : 1485211898825,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "b1e371f0f13cbd4b",
+    "name" : "Then the current tool definition has 0 step definitions",
+    "title" : "Then the current tool definition has 0 step definitions",
+    "time" : {
+      "start" : 1485211929080,
+      "stop" : 1485211929080,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "9b7360e5016a176a",
+    "name" : "Given the admin user is on the Tool Builder admin page",
+    "title" : "Given the admin user is on the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211968918,
+      "stop" : 1485211968918,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "e37b16eaa18a7adf",
+    "name" : "And a tool definition called \"My New Tool Type 2\" exists",
+    "title" : "And a tool definition called \"My New Tool Type 2\" exists",
+    "time" : {
+      "start" : 1485211969049,
+      "stop" : 1485211969049,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "7bd38800573c2af4",
+    "name" : "And a tool definition called \"Mock Tool Type\" exists",
+    "title" : "And a tool definition called \"Mock Tool Type\" exists",
+    "time" : {
+      "start" : 1485211969082,
+      "stop" : 1485211969082,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "6934034ce948c830",
+    "name" : "When she selects to delete the tool definition called \"My New Tool Type 2\"",
+    "title" : "When she selects to delete the tool definition called \"My New Tool Type 2\"",
+    "time" : {
+      "start" : 1485211969319,
+      "stop" : 1485211969319,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "973a448575d277b2",
+    "name" : "And she confirms the deletion of the tool definition called \"My New Tool Type 2\"",
+    "title" : "And she confirms the deletion of the tool definition called \"My New Tool Type 2\"",
+    "time" : {
+      "start" : 1485211970495,
+      "stop" : 1485211970495,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "aeaa704b42467b5a",
+    "name" : "And she selects to delete the tool definition called \"Mock Tool Type\"",
+    "title" : "And she selects to delete the tool definition called \"Mock Tool Type\"",
+    "time" : {
+      "start" : 1485211970733,
+      "stop" : 1485211970733,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "d98801fa7ace594",
+    "name" : "And she confirms the deletion of the tool definition called \"Mock Tool Type\"",
+    "title" : "And she confirms the deletion of the tool definition called \"Mock Tool Type\"",
+    "time" : {
+      "start" : 1485211971797,
+      "stop" : 1485211971797,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "2e303d6232281412",
+    "name" : "Then a tool definition called \"My New Tool Type 2\" does not exist",
+    "title" : "Then a tool definition called \"My New Tool Type 2\" does not exist",
+    "time" : {
+      "start" : 1485211971889,
+      "stop" : 1485211971889,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "3dcc1e8ea67ff371",
+    "name" : "And a tool definition called \"Mock Tool Type\" does not exist",
+    "title" : "And a tool definition called \"Mock Tool Type\" does not exist",
+    "time" : {
+      "start" : 1485211971955,
+      "stop" : 1485211971955,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "7875358a67ef98e8",
+    "name" : "Given the admin user is on the Tool Builder admin page",
+    "title" : "Given the admin user is on the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211644895,
+      "stop" : 1485211644895,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "2d49128ec0482244",
+    "name" : "When she chooses to create a new tool definition",
+    "title" : "When she chooses to create a new tool definition",
+    "time" : {
+      "start" : 1485211644984,
+      "stop" : 1485211644984,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "91e95aaa42ad744d",
+    "name" : "And she provides the tool definition name as \"My New Tool Type\"",
+    "title" : "And she provides the tool definition name as \"My New Tool Type\"",
+    "time" : {
+      "start" : 1485211646546,
+      "stop" : 1485211646546,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "d95fcad633f2f12",
+    "name" : "And she adds in position 1 a step of type MOCK",
+    "title" : "And she adds in position 1 a step of type MOCK",
+    "time" : {
+      "start" : 1485211649101,
+      "stop" : 1485211649101,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "22b275679d61fd76",
+    "name" : "And she adds in position 2 a step of type MOCK",
+    "title" : "And she adds in position 2 a step of type MOCK",
+    "time" : {
+      "start" : 1485211650155,
+      "stop" : 1485211650155,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "1efcb9e952799c37",
+    "name" : "And she adds in position 3 a step of type MOCK",
+    "title" : "And she adds in position 3 a step of type MOCK",
+    "time" : {
+      "start" : 1485211651162,
+      "stop" : 1485211651162,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "2c7e34435030f2d3",
+    "name" : "And she returns to the Tool Definition admin page",
+    "title" : "And she returns to the Tool Definition admin page",
+    "time" : {
+      "start" : 1485211651235,
+      "stop" : 1485211651235,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f38f1559fb4f8abf",
+    "name" : "Then a tool definition called \"My New Tool Type\" exists",
+    "title" : "Then a tool definition called \"My New Tool Type\" exists",
+    "time" : {
+      "start" : 1485211651751,
+      "stop" : 1485211651751,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "5869ce6bd2542013",
+    "name" : "And the user selects \"My New Tool Type\" as default tool definition",
+    "title" : "And the user selects \"My New Tool Type\" as default tool definition",
+    "time" : {
+      "start" : 1485211652382,
+      "stop" : 1485211652382,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "4bf8266405546301",
+    "name" : "Given the admin user is on the Tool Builder admin page",
+    "title" : "Given the admin user is on the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211816173,
+      "stop" : 1485211816173,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "bdeeaffcad3df4b8",
+    "name" : "And she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "title" : "And she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "time" : {
+      "start" : 1485211817518,
+      "stop" : 1485211817518,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f0974678f6ce64a9",
+    "name" : "When she clicks to delete the step 2",
+    "title" : "When she clicks to delete the step 2",
+    "time" : {
+      "start" : 1485211817587,
+      "stop" : 1485211817588,
+      "duration" : 1
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f4137b42156ac024",
+    "name" : "And she confirms the step deletion",
+    "title" : "And she confirms the step deletion",
+    "time" : {
+      "start" : 1485211818242,
+      "stop" : 1485211818242,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "3ec9d69e992525dc",
+    "name" : "And she clicks to delete the step 1",
+    "title" : "And she clicks to delete the step 1",
+    "time" : {
+      "start" : 1485211818299,
+      "stop" : 1485211818299,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "5a13bdf5aa738f22",
+    "name" : "And she confirms the step deletion",
+    "title" : "And she confirms the step deletion",
+    "time" : {
+      "start" : 1485211818906,
+      "stop" : 1485211818906,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "10c47ff3697fcc0",
+    "name" : "Then the current tool definition has 0 step definitions",
+    "title" : "Then the current tool definition has 0 step definitions",
+    "time" : {
+      "start" : 1485211849185,
+      "stop" : 1485211849185,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f5394b5316d70f20",
+    "name" : "Given the admin user is on the Tool Builder admin page",
+    "title" : "Given the admin user is on the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211707278,
+      "stop" : 1485211707278,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "ed6a25bf5ef0b362",
+    "name" : "And she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "title" : "And she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "time" : {
+      "start" : 1485211708081,
+      "stop" : 1485211708081,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "8223b000b9c413f7",
+    "name" : "And the steps positions are defined to compare",
+    "title" : "And the steps positions are defined to compare",
+    "time" : {
+      "start" : 1485211708311,
+      "stop" : 1485211708311,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "b33697beb7748403",
+    "name" : "When she moves the step 2 to step 3",
+    "title" : "When she moves the step 2 to step 3",
+    "time" : {
+      "start" : 1485211710008,
+      "stop" : 1485211710008,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "a5b8b01a8cd08934",
+    "name" : "And she saves the steps order",
+    "title" : "And she saves the steps order",
+    "time" : {
+      "start" : 1485211712077,
+      "stop" : 1485211712077,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "ea1effc72b98558b",
+    "name" : "Then the step 1 is in the position 1",
+    "title" : "Then the step 1 is in the position 1",
+    "time" : {
+      "start" : 1485211712270,
+      "stop" : 1485211712270,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "bde980d26809cff9",
+    "name" : "And the former step 1 is in the position 1",
+    "title" : "And the former step 1 is in the position 1",
+    "time" : {
+      "start" : 1485211712464,
+      "stop" : 1485211712464,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "a33db1d82537dd24",
+    "name" : "And the step 2 is in the position 2",
+    "title" : "And the step 2 is in the position 2",
+    "time" : {
+      "start" : 1485211712543,
+      "stop" : 1485211712543,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "fc0cebbf01786aba",
+    "name" : "And the former step 2 is in the position 3",
+    "title" : "And the former step 2 is in the position 3",
+    "time" : {
+      "start" : 1485211712684,
+      "stop" : 1485211712684,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "d2153405bdfbdad1",
+    "name" : "And the step 3 is in the position 3",
+    "title" : "And the step 3 is in the position 3",
+    "time" : {
+      "start" : 1485211712803,
+      "stop" : 1485211712803,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "123d659dd87ebf56",
+    "name" : "And the former step 3 is in the position 2",
+    "title" : "And the former step 3 is in the position 2",
+    "time" : {
+      "start" : 1485211713001,
+      "stop" : 1485211713001,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "2a4e7284f2a03d40",
+    "name" : "And she returns to the Tool Definition admin page",
+    "title" : "And she returns to the Tool Definition admin page",
+    "time" : {
+      "start" : 1485211713079,
+      "stop" : 1485211713079,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "1513c3158788dd51",
+    "name" : "Given the admin user is on the Tool Builder admin page",
+    "title" : "Given the admin user is on the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211764744,
+      "stop" : 1485211764744,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "88619eb690b50d11",
+    "name" : "And she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "title" : "And she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "time" : {
+      "start" : 1485211765535,
+      "stop" : 1485211765535,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "df43c191e4cb84ae",
+    "name" : "And the steps positions are defined to compare",
+    "title" : "And the steps positions are defined to compare",
+    "time" : {
+      "start" : 1485211765751,
+      "stop" : 1485211765751,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "77923bf47a1e3047",
+    "name" : "When she moves the step 1 to step 3",
+    "title" : "When she moves the step 1 to step 3",
+    "time" : {
+      "start" : 1485211767848,
+      "stop" : 1485211767848,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "783ea6b4cbc5ba04",
+    "name" : "And she saves the steps order",
+    "title" : "And she saves the steps order",
+    "time" : {
+      "start" : 1485211769903,
+      "stop" : 1485211769903,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "542fd2f539a69a93",
+    "name" : "Then the step 1 is in the position 1",
+    "title" : "Then the step 1 is in the position 1",
+    "time" : {
+      "start" : 1485211770070,
+      "stop" : 1485211770070,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "d76e93714c8e4c2f",
+    "name" : "And the former step 1 is in the position 3",
+    "title" : "And the former step 1 is in the position 3",
+    "time" : {
+      "start" : 1485211770205,
+      "stop" : 1485211770205,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "ec0092d3535e99bd",
+    "name" : "And the step 2 is in the position 2",
+    "title" : "And the step 2 is in the position 2",
+    "time" : {
+      "start" : 1485211770274,
+      "stop" : 1485211770274,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "53f57221d6fd62ad",
+    "name" : "And the former step 2 is in the position 1",
+    "title" : "And the former step 2 is in the position 1",
+    "time" : {
+      "start" : 1485211770351,
+      "stop" : 1485211770351,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "90c4d7518b8a074b",
+    "name" : "And the step 3 is in the position 3",
+    "title" : "And the step 3 is in the position 3",
+    "time" : {
+      "start" : 1485211770422,
+      "stop" : 1485211770423,
+      "duration" : 1
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "c1f1a306bd24c1da",
+    "name" : "And the former step 3 is in the position 2",
+    "title" : "And the former step 3 is in the position 2",
+    "time" : {
+      "start" : 1485211770502,
+      "stop" : 1485211770502,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "45a0cd0b7f91c594",
+    "name" : "Given the user is on the Tool Instances Navigation Page",
+    "title" : "Given the user is on the Tool Instances Navigation Page",
+    "time" : {
+      "start" : 1485211983444,
+      "stop" : 1485211983444,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "b37898d07565f093",
+    "name" : "And a tool instance called \"My New Tool Def Instance\" exists",
+    "title" : "And a tool instance called \"My New Tool Def Instance\" exists",
+    "time" : {
+      "start" : 1485211983491,
+      "stop" : 1485211983491,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "ae984c00fba5ebd5",
+    "name" : "When the admin user goes to the Tool Builder admin page",
+    "title" : "When the admin user goes to the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211985115,
+      "stop" : 1485211985115,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "39f3b811f13e8d1f",
+    "name" : "And she selects \"Test Tool 2\" as default tool definition",
+    "title" : "And she selects \"Test Tool 2\" as default tool definition",
+    "time" : {
+      "start" : 1485211986480,
+      "stop" : 1485211986480,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "79edfca31846179",
+    "name" : "Then a tooltip message with text \"unselect-or-delete-instances-to-configure-delete-tooldef\" is shown for the buttons on tool definition \"My New Tool Type\"",
+    "title" : "Then a tooltip message with text \"unselect-or-delete-instances-to-configure-delete-tooldef\" is shown for the buttons on tool definition \"My New Tool Type\"",
+    "time" : {
+      "start" : 1485211987134,
+      "stop" : 1485211987134,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "8862ff5a0b6a69fb",
+    "name" : "And the button to delete the tool definition called \"My New Tool Type\" is disabled",
+    "title" : "And the button to delete the tool definition called \"My New Tool Type\" is disabled",
+    "time" : {
+      "start" : 1485211987180,
+      "stop" : 1485211987180,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "6ce925da188aa177",
+    "name" : "And the button to configure the tool definition called \"My New Tool Type\" is disabled",
+    "title" : "And the button to configure the tool definition called \"My New Tool Type\" is disabled",
+    "time" : {
+      "start" : 1485211987227,
+      "stop" : 1485211987227,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "eaa813e50160cb2a",
+    "name" : "Given the user is on the Tool Instances Navigation Page",
+    "title" : "Given the user is on the Tool Instances Navigation Page",
+    "time" : {
+      "start" : 1485211656527,
+      "stop" : 1485211656527,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "75a880bd18092e2e",
+    "name" : "And she logs in the system as test@guerrillamail.com with password test",
+    "title" : "And she logs in the system as test@guerrillamail.com with password test",
+    "time" : {
+      "start" : 1485211656866,
+      "stop" : 1485211656866,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "b7f2e6e554b41f1c",
+    "name" : "And the name of the tool definition is \"My New Tool Type\"",
+    "title" : "And the name of the tool definition is \"My New Tool Type\"",
+    "time" : {
+      "start" : 1485211657702,
+      "stop" : 1485211657702,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "c2a9fb92ea41468c",
+    "name" : "When the user creates a tool instance called \"My New Tool Def Instance\"",
+    "title" : "When the user creates a tool instance called \"My New Tool Def Instance\"",
+    "time" : {
+      "start" : 1485211659202,
+      "stop" : 1485211659202,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "bfc2ec7ae5528a84",
+    "name" : "And she selects the tool instance \"My New Tool Def Instance\"",
+    "title" : "And she selects the tool instance \"My New Tool Def Instance\"",
+    "time" : {
+      "start" : 1485211659809,
+      "stop" : 1485211659809,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "8bf676d9e546d866",
+    "name" : "When she chooses to step forward",
+    "title" : "When she chooses to step forward",
+    "time" : {
+      "start" : 1485211659857,
+      "stop" : 1485211659857,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "843b56fa7570b8bc",
+    "name" : "When she chooses to step forward",
+    "title" : "When she chooses to step forward",
+    "time" : {
+      "start" : 1485211659885,
+      "stop" : 1485211659885,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "40d9cba3f1c3f231",
+    "name" : "When she chooses to step forward",
+    "title" : "When she chooses to step forward",
+    "time" : {
+      "start" : 1485211659911,
+      "stop" : 1485211659911,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "54ef8caabaaf1af5",
+    "name" : "When she chooses to step forward",
+    "title" : "When she chooses to step forward",
+    "time" : {
+      "start" : 1485211659930,
+      "stop" : 1485211659930,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "a51c823b0514687a",
+    "name" : "And she returns to the Tool Instances Navigation Page",
+    "title" : "And she returns to the Tool Instances Navigation Page",
+    "time" : {
+      "start" : 1485211659961,
+      "stop" : 1485211659961,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "3abc031ac81a25d7",
+    "name" : "Then the tool instance called \"My New Tool Def Instance\" is on step 3",
+    "title" : "Then the tool instance called \"My New Tool Def Instance\" is on step 3",
+    "time" : {
+      "start" : 1485211660348,
+      "stop" : 1485211660348,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "430a9553127be622",
+    "name" : "Given the admin user is on the Tool Builder admin page",
+    "title" : "Given the admin user is on the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211788388,
+      "stop" : 1485211788388,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "b3e223e6da0bdaba",
+    "name" : "When she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "title" : "When she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "time" : {
+      "start" : 1485211789208,
+      "stop" : 1485211789208,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "9803ec56ead950b",
+    "name" : "And she adds a step of type MOCK",
+    "title" : "And she adds a step of type MOCK",
+    "time" : {
+      "start" : 1485211790765,
+      "stop" : 1485211790765,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "931a325b46b8b5b",
+    "name" : "And the steps positions are defined to compare",
+    "title" : "And the steps positions are defined to compare",
+    "time" : {
+      "start" : 1485211791088,
+      "stop" : 1485211791088,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "d5fe2c1ffd7bb2ab",
+    "name" : "And she moves the step 4 to step 2",
+    "title" : "And she moves the step 4 to step 2",
+    "time" : {
+      "start" : 1485211792907,
+      "stop" : 1485211792907,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "9e72040fea96e52b",
+    "name" : "Then the step 4 is in the position 2",
+    "title" : "Then the step 4 is in the position 2",
+    "time" : {
+      "start" : 1485211793229,
+      "stop" : 1485211793229,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "fa1e5d76b7d490e0",
+    "name" : "And the step 2 is in the position 3",
+    "title" : "And the step 2 is in the position 3",
+    "time" : {
+      "start" : 1485211793506,
+      "stop" : 1485211793506,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f69fac280b7ba65a",
+    "name" : "And the step 3 is in the position 4",
+    "title" : "And the step 3 is in the position 4",
+    "time" : {
+      "start" : 1485211793678,
+      "stop" : 1485211793678,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "d56462f35948e41f",
+    "name" : "And she returns to the Tool Definition admin page",
+    "title" : "And she returns to the Tool Definition admin page",
+    "time" : {
+      "start" : 1485211793752,
+      "stop" : 1485211793752,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "2719e1312f8e845",
+    "name" : "And she selects to delete the tool definition called \"My editTest Tool Type\"",
+    "title" : "And she selects to delete the tool definition called \"My editTest Tool Type\"",
+    "time" : {
+      "start" : 1485211794492,
+      "stop" : 1485211794492,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "5691b2b6d3bde8e4",
+    "name" : "And she confirms the deletion",
+    "title" : "And she confirms the deletion",
+    "time" : {
+      "start" : 1485211795615,
+      "stop" : 1485211795615,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "a910ae499a3a0786",
+    "name" : "Given the admin user is on the Tool Builder admin page",
+    "title" : "Given the admin user is on the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211777022,
+      "stop" : 1485211777022,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "4dcdf7b0409a0d72",
+    "name" : "When she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "title" : "When she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "time" : {
+      "start" : 1485211777836,
+      "stop" : 1485211777836,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "4898313155f4008",
+    "name" : "And the steps positions are defined to compare",
+    "title" : "And the steps positions are defined to compare",
+    "time" : {
+      "start" : 1485211778021,
+      "stop" : 1485211778021,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "61151b38f39b185b",
+    "name" : "And she moves the step 3 to step 1",
+    "title" : "And she moves the step 3 to step 1",
+    "time" : {
+      "start" : 1485211779862,
+      "stop" : 1485211779862,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "8999d0599278cecd",
+    "name" : "And the step 3 is in the position 1",
+    "title" : "And the step 3 is in the position 1",
+    "time" : {
+      "start" : 1485211780045,
+      "stop" : 1485211780045,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "2d89af8c86cdc542",
+    "name" : "And she adds a step of type MOCK",
+    "title" : "And she adds a step of type MOCK",
+    "time" : {
+      "start" : 1485211781100,
+      "stop" : 1485211781100,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "c60f74d5f99077a",
+    "name" : "Then the former step 3 is in the position 1",
+    "title" : "Then the former step 3 is in the position 1",
+    "time" : {
+      "start" : 1485211781345,
+      "stop" : 1485211781345,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "1c4967521fac8210",
+    "name" : "And the step 3 is in the position 3",
+    "title" : "And the step 3 is in the position 3",
+    "time" : {
+      "start" : 1485211781559,
+      "stop" : 1485211781559,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "2bcf2815f0f7dbfb",
+    "name" : "And the step 1 is in the position 1",
+    "title" : "And the step 1 is in the position 1",
+    "time" : {
+      "start" : 1485211781774,
+      "stop" : 1485211781774,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "3896db123ef0a45c",
+    "name" : "Given the admin user is on the Tool Builder admin page",
+    "title" : "Given the admin user is on the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211943120,
+      "stop" : 1485211943120,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "4b719e77144cb95b",
+    "name" : "And she chooses to create a new tool definition",
+    "title" : "And she chooses to create a new tool definition",
+    "time" : {
+      "start" : 1485211943193,
+      "stop" : 1485211943193,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "4658e84c2c5d07ac",
+    "name" : "And she provides the tool definition name as \"My Deleted Tool Type\"",
+    "title" : "And she provides the tool definition name as \"My Deleted Tool Type\"",
+    "time" : {
+      "start" : 1485211944283,
+      "stop" : 1485211944283,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "859534149d31137f",
+    "name" : "And she adds a step of type MOCK",
+    "title" : "And she adds a step of type MOCK",
+    "time" : {
+      "start" : 1485211945365,
+      "stop" : 1485211945365,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "c7522de87b650b8a",
+    "name" : "And she adds a step of type MOCK",
+    "title" : "And she adds a step of type MOCK",
+    "time" : {
+      "start" : 1485211946410,
+      "stop" : 1485211946410,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "1a64d8f4d8c4360e",
+    "name" : "And she adds a step of type MOCK",
+    "title" : "And she adds a step of type MOCK",
+    "time" : {
+      "start" : 1485211947455,
+      "stop" : 1485211947455,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "364f566cfa32d51",
+    "name" : "And she returns to the Tool Definition admin page",
+    "title" : "And she returns to the Tool Definition admin page",
+    "time" : {
+      "start" : 1485211947518,
+      "stop" : 1485211947518,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "ec7b99ca59bbad6a",
+    "name" : "When she selects to delete the tool definition called \"My Deleted Tool Type\"",
+    "title" : "When she selects to delete the tool definition called \"My Deleted Tool Type\"",
+    "time" : {
+      "start" : 1485211948422,
+      "stop" : 1485211948422,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "5d4fabaeb8c999d3",
+    "name" : "And she confirms the deletion of the tool definition called \"My Deleted Tool Type\"",
+    "title" : "And she confirms the deletion of the tool definition called \"My Deleted Tool Type\"",
+    "time" : {
+      "start" : 1485211949552,
+      "stop" : 1485211949552,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "5d7c47ce7b8a45de",
+    "name" : "Then a tool definition called \"My Deleted Tool Type\" does not exist",
+    "title" : "Then a tool definition called \"My Deleted Tool Type\" does not exist",
+    "time" : {
+      "start" : 1485211949686,
+      "stop" : 1485211949686,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "fb439a8f55d63f6a",
+    "name" : "When the user goes to the page http://localhost:8080/group/control_panel/manage?p_p_id=tooldefinition_WAR_toolBuilderportlet",
+    "title" : "When the user goes to the page http://localhost:8080/group/control_panel/manage?p_p_id=tooldefinition_WAR_toolBuilderportlet",
+    "time" : {
+      "start" : 1485211623466,
+      "stop" : 1485211623466,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "94fe6bf44dde36b9",
+    "name" : "Then the login portlet is showed",
+    "title" : "Then the login portlet is showed",
+    "time" : {
+      "start" : 1485211623485,
+      "stop" : 1485211623485,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f9a9c2c81be38fdb",
+    "name" : "Given the admin user is on the Tool Builder admin page",
+    "title" : "Given the admin user is on the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211673177,
+      "stop" : 1485211673177,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "b3c8ac34600432a3",
+    "name" : "And a tool definition called \"My New Tool Type\" exists",
+    "title" : "And a tool definition called \"My New Tool Type\" exists",
+    "time" : {
+      "start" : 1485211673795,
+      "stop" : 1485211673795,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "d6965e48256d6f73",
+    "name" : "When she chooses to create a new tool definition",
+    "title" : "When she chooses to create a new tool definition",
+    "time" : {
+      "start" : 1485211673875,
+      "stop" : 1485211673875,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "9d6267a0c353507d",
+    "name" : "And she provides the tool definition name as \"My New Tool Type\"",
+    "title" : "And she provides the tool definition name as \"My New Tool Type\"",
+    "time" : {
+      "start" : 1485211674098,
+      "stop" : 1485211674098,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "c2cb13bc1210c5cd",
+    "name" : "Then an error message with text \"Tool Definition called \"My New Tool Type\" already exists\" is shown for the new tool definition",
+    "title" : "Then an error message with text \"Tool Definition called \"My New Tool Type\" already exists\" is shown for the new tool definition",
+    "time" : {
+      "start" : 1485211674130,
+      "stop" : 1485211674130,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "4a88b3b91484b97c",
+    "name" : "And she provides the tool definition name as \"My New Tool Type 2\"",
+    "title" : "And she provides the tool definition name as \"My New Tool Type 2\"",
+    "time" : {
+      "start" : 1485211675549,
+      "stop" : 1485211675549,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "1c49753fd497c4d5",
+    "name" : "And she adds in position 1 a step of type MOCK",
+    "title" : "And she adds in position 1 a step of type MOCK",
+    "time" : {
+      "start" : 1485211676673,
+      "stop" : 1485211676673,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "cc6cab9bfff6cb86",
+    "name" : "And she adds in position 2 a step of type MOCK",
+    "title" : "And she adds in position 2 a step of type MOCK",
+    "time" : {
+      "start" : 1485211678170,
+      "stop" : 1485211678170,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "60b7a609b4b540d3",
+    "name" : "And she returns to the Tool Definition admin page",
+    "title" : "And she returns to the Tool Definition admin page",
+    "time" : {
+      "start" : 1485211678218,
+      "stop" : 1485211678218,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "e12ea84ed965a2e7",
+    "name" : "Then a tool definition called \"My New Tool Type 2\" exists",
+    "title" : "Then a tool definition called \"My New Tool Type 2\" exists",
+    "time" : {
+      "start" : 1485211678735,
+      "stop" : 1485211678735,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "b771d6e9759e85f8",
+    "name" : "Given the admin user is on the Tool Builder admin page",
+    "title" : "Given the admin user is on the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211636598,
+      "stop" : 1485211636598,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "8fed9acf86c9cb1f",
+    "name" : "When she chooses to create a new tool definition",
+    "title" : "When she chooses to create a new tool definition",
+    "time" : {
+      "start" : 1485211636653,
+      "stop" : 1485211636653,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "25ed57c872d2dc88",
+    "name" : "And she provides the tool definition name as \"Mock Tool Type\"",
+    "title" : "And she provides the tool definition name as \"Mock Tool Type\"",
+    "time" : {
+      "start" : 1485211637826,
+      "stop" : 1485211637826,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "a7328134986fa308",
+    "name" : "And she returns to the Tool Definition admin page",
+    "title" : "And she returns to the Tool Definition admin page",
+    "time" : {
+      "start" : 1485211637902,
+      "stop" : 1485211637902,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "a486a5e64336d35",
+    "name" : "Then a tool definition called \"Mock Tool Type\" exists",
+    "title" : "Then a tool definition called \"Mock Tool Type\" exists",
+    "time" : {
+      "start" : 1485211638339,
+      "stop" : 1485211638339,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "39f2dfaaaecdbfcd",
+    "name" : "Given the admin user is on the Tool Builder admin page",
+    "title" : "Given the admin user is on the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211957506,
+      "stop" : 1485211957506,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "8ee9343c85b81bb",
+    "name" : "And she chooses to create a new tool definition",
+    "title" : "And she chooses to create a new tool definition",
+    "time" : {
+      "start" : 1485211957555,
+      "stop" : 1485211957555,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "e720dc090add6fa4",
+    "name" : "And she provides the tool definition name as \"My Deleted Tool Type 2\"",
+    "title" : "And she provides the tool definition name as \"My Deleted Tool Type 2\"",
+    "time" : {
+      "start" : 1485211958541,
+      "stop" : 1485211958541,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "853d474a6e909802",
+    "name" : "And she returns to the Tool Definition admin page",
+    "title" : "And she returns to the Tool Definition admin page",
+    "time" : {
+      "start" : 1485211958612,
+      "stop" : 1485211958612,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "ed4e64b2578b4d4",
+    "name" : "When she selects to delete the tool definition called \"My Deleted Tool Type 2\"",
+    "title" : "When she selects to delete the tool definition called \"My Deleted Tool Type 2\"",
+    "time" : {
+      "start" : 1485211959351,
+      "stop" : 1485211959351,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "7f4b54342055cfc5",
+    "name" : "And she confirms the deletion of the tool definition called \"My Deleted Tool Type 2\"",
+    "title" : "And she confirms the deletion of the tool definition called \"My Deleted Tool Type 2\"",
+    "time" : {
+      "start" : 1485211960577,
+      "stop" : 1485211960577,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "cea5d49e3093d4d1",
+    "name" : "Then a tool definition called \"My Deleted Tool Type 2\" does not exist",
+    "title" : "Then a tool definition called \"My Deleted Tool Type 2\" does not exist",
+    "time" : {
+      "start" : 1485211960687,
+      "stop" : 1485211960687,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "944bbcf93c4a3e38",
+    "name" : "Given the admin user is on the Tool Builder admin page",
+    "title" : "Given the admin user is on the Tool Builder admin page",
+    "time" : {
+      "start" : 1485212001588,
+      "stop" : 1485212001588,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "464bf9562d9debe2",
+    "name" : "And she selects \"My New Tool Type\" as default tool definition",
+    "title" : "And she selects \"My New Tool Type\" as default tool definition",
+    "time" : {
+      "start" : 1485212003162,
+      "stop" : 1485212003162,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "81ce1ab1955f6999",
+    "name" : "And she goes to the Tool Instances Navigation Page",
+    "title" : "And she goes to the Tool Instances Navigation Page",
+    "time" : {
+      "start" : 1485212003461,
+      "stop" : 1485212003461,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "82d74ff1ec047a3",
+    "name" : "And a tool instance called \"My New Tool Def Instance\" exists",
+    "title" : "And a tool instance called \"My New Tool Def Instance\" exists",
+    "time" : {
+      "start" : 1485212003521,
+      "stop" : 1485212003521,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "6353b8feefa691b8",
+    "name" : "When the user selects the tool instance \"My New Tool Def Instance\"",
+    "title" : "When the user selects the tool instance \"My New Tool Def Instance\"",
+    "time" : {
+      "start" : 1485212003690,
+      "stop" : 1485212003690,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "9ab4f4bd6f4ecf1c",
+    "name" : "And she deletes the current tool instance",
+    "title" : "And she deletes the current tool instance",
+    "time" : {
+      "start" : 1485212003753,
+      "stop" : 1485212003753,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "a4d82ed9af8478f0",
+    "name" : "And she logs out",
+    "title" : "And she logs out",
+    "time" : {
+      "start" : 1485212004792,
+      "stop" : 1485212004792,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "ea3e38e8f3290e35",
+    "name" : "And the admin user goes to the Tool Builder admin page",
+    "title" : "And the admin user goes to the Tool Builder admin page",
+    "time" : {
+      "start" : 1485212006799,
+      "stop" : 1485212006799,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "b73657dc1734129",
+    "name" : "And a tooltip message with text \"unselect-or-delete-instances-to-configure-delete-tooldef\" is shown for the buttons on tool definition \"My New Tool Type\"",
+    "title" : "And a tooltip message with text \"unselect-or-delete-instances-to-configure-delete-tooldef\" is shown for the buttons on tool definition \"My New Tool Type\"",
+    "time" : {
+      "start" : 1485212007474,
+      "stop" : 1485212007474,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "963c6b07f9c99025",
+    "name" : "And the user selects \"Test Tool\" as default tool definition",
+    "title" : "And the user selects \"Test Tool\" as default tool definition",
+    "time" : {
+      "start" : 1485212008170,
+      "stop" : 1485212008170,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "379070bd9716e8dc",
+    "name" : "And the button to delete the tool definition called \"My New Tool Type\" is enabled",
+    "title" : "And the button to delete the tool definition called \"My New Tool Type\" is enabled",
+    "time" : {
+      "start" : 1485212008259,
+      "stop" : 1485212008259,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "83749a2731a826b1",
+    "name" : "And the button to configure the tool definition called \"My New Tool Type\" is enabled",
+    "title" : "And the button to configure the tool definition called \"My New Tool Type\" is enabled",
+    "time" : {
+      "start" : 1485212008321,
+      "stop" : 1485212008321,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "5bc43ed56fa51956",
+    "name" : "And she selects to delete the tool definition called \"My New Tool Type\"",
+    "title" : "And she selects to delete the tool definition called \"My New Tool Type\"",
+    "time" : {
+      "start" : 1485212008432,
+      "stop" : 1485212008432,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "7707cc3fe0b5285f",
+    "name" : "And she confirms the deletion",
+    "title" : "And she confirms the deletion",
+    "time" : {
+      "start" : 1485212009546,
+      "stop" : 1485212009546,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "62cc7ffdf6fbee37",
+    "name" : "Then a tool definition called \"My New Tool Type\" does not exist",
+    "title" : "Then a tool definition called \"My New Tool Type\" does not exist",
+    "time" : {
+      "start" : 1485212009615,
+      "stop" : 1485212009615,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "6a8f8d709c9a7616",
+    "name" : "Given the admin user is on the Tool Builder admin page",
+    "title" : "Given the admin user is on the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211735147,
+      "stop" : 1485211735147,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "52cc491e9d228bd2",
+    "name" : "And she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "title" : "And she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "time" : {
+      "start" : 1485211735966,
+      "stop" : 1485211735966,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "b8929eb683229941",
+    "name" : "And the steps positions are defined to compare",
+    "title" : "And the steps positions are defined to compare",
+    "time" : {
+      "start" : 1485211736188,
+      "stop" : 1485211736188,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "517c50803d7a55fe",
+    "name" : "When she moves the step 2 to step 3",
+    "title" : "When she moves the step 2 to step 3",
+    "time" : {
+      "start" : 1485211737878,
+      "stop" : 1485211737878,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f3b927372db77437",
+    "name" : "And she returns to the Tool Definition admin page",
+    "title" : "And she returns to the Tool Definition admin page",
+    "time" : {
+      "start" : 1485211737970,
+      "stop" : 1485211737970,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "458aa6fbe616d89f",
+    "name" : "And she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "title" : "And she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "time" : {
+      "start" : 1485211738939,
+      "stop" : 1485211738939,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "de60857a678e08ce",
+    "name" : "And she saves the steps order",
+    "title" : "And she saves the steps order",
+    "time" : {
+      "start" : 1485211740993,
+      "stop" : 1485211740993,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "e6ff8c173b964d0c",
+    "name" : "Then the step 1 is in the position 1",
+    "title" : "Then the step 1 is in the position 1",
+    "time" : {
+      "start" : 1485211741109,
+      "stop" : 1485211741109,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "a78bbe2afa08ac5f",
+    "name" : "And the former step 1 is in the position 1",
+    "title" : "And the former step 1 is in the position 1",
+    "time" : {
+      "start" : 1485211741242,
+      "stop" : 1485211741243,
+      "duration" : 1
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "62baa041b86513ac",
+    "name" : "And the step 2 is in the position 2",
+    "title" : "And the step 2 is in the position 2",
+    "time" : {
+      "start" : 1485211741313,
+      "stop" : 1485211741313,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "e40069a863fd75e9",
+    "name" : "And the former step 2 is in the position 2",
+    "title" : "And the former step 2 is in the position 2",
+    "time" : {
+      "start" : 1485211741436,
+      "stop" : 1485211741436,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "c61aab93530ff183",
+    "name" : "And the step 3 is in the position 3",
+    "title" : "And the step 3 is in the position 3",
+    "time" : {
+      "start" : 1485211741501,
+      "stop" : 1485211741501,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "b0b596b9919fe462",
+    "name" : "And the former step 3 is in the position 3",
+    "title" : "And the former step 3 is in the position 3",
+    "time" : {
+      "start" : 1485211741579,
+      "stop" : 1485211741579,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "197319838e3f8591",
+    "name" : "And she returns to the Tool Definition admin page",
+    "title" : "And she returns to the Tool Definition admin page",
+    "time" : {
+      "start" : 1485211741617,
+      "stop" : 1485211741617,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "613d8c29150a7b91",
+    "name" : "Given the admin user is on the Tool Builder admin page",
+    "title" : "Given the admin user is on the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211978343,
+      "stop" : 1485211978343,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "cdef778b6639fc1b",
+    "name" : "When the name of the selected tool definition is \"My New Tool Type\"",
+    "title" : "When the name of the selected tool definition is \"My New Tool Type\"",
+    "time" : {
+      "start" : 1485211978455,
+      "stop" : 1485211978455,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "51ae5a1a6a9d592d",
+    "name" : "Then a tooltip message with text \"unselect-or-delete-instances-to-configure-delete-tooldef\" is shown for the buttons on tool definition \"My New Tool Type\"",
+    "title" : "Then a tooltip message with text \"unselect-or-delete-instances-to-configure-delete-tooldef\" is shown for the buttons on tool definition \"My New Tool Type\"",
+    "time" : {
+      "start" : 1485211979158,
+      "stop" : 1485211979158,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "4276d261ca0e59a9",
+    "name" : "And the button to delete the tool definition called \"My New Tool Type\" is disabled",
+    "title" : "And the button to delete the tool definition called \"My New Tool Type\" is disabled",
+    "time" : {
+      "start" : 1485211979218,
+      "stop" : 1485211979218,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "b82154abccd30353",
+    "name" : "And the button to configure the tool definition called \"My New Tool Type\" is disabled",
+    "title" : "And the button to configure the tool definition called \"My New Tool Type\" is disabled",
+    "time" : {
+      "start" : 1485211979276,
+      "stop" : 1485211979276,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "4925dafc6927fc2e",
+    "name" : "Given the user goes to the Tool Instances Navigation Page",
+    "title" : "Given the user goes to the Tool Instances Navigation Page",
+    "time" : {
+      "start" : 1485211627853,
+      "stop" : 1485211627853,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "3c905bf655b19c51",
+    "name" : "And he logs in the system as test@guerrillamail.com with password test",
+    "title" : "And he logs in the system as test@guerrillamail.com with password test",
+    "time" : {
+      "start" : 1485211628263,
+      "stop" : 1485211628263,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "8489b070b3db6b9b",
+    "name" : "When he goes to the page http://localhost:8080/group/control_panel/manage?p_p_id=tooldefinition_WAR_toolBuilderportlet",
+    "title" : "When he goes to the page http://localhost:8080/group/control_panel/manage?p_p_id=tooldefinition_WAR_toolBuilderportlet",
+    "time" : {
+      "start" : 1485211630078,
+      "stop" : 1485211630078,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "9ddeaddbcffee05",
+    "name" : "Then the page was not found",
+    "title" : "Then the page was not found",
+    "time" : {
+      "start" : 1485211630095,
+      "stop" : 1485211630095,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "bb438b90b665d124",
+    "name" : "Given the admin user is on the Tool Builder admin page",
+    "title" : "Given the admin user is on the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211751062,
+      "stop" : 1485211751062,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "619a86a5ca96c78a",
+    "name" : "And she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "title" : "And she chooses to edit the tool definition called \"My editTest Tool Type\"",
+    "time" : {
+      "start" : 1485211751903,
+      "stop" : 1485211751903,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "e0c1eb0e1b937846",
+    "name" : "And the steps positions are defined to compare",
+    "title" : "And the steps positions are defined to compare",
+    "time" : {
+      "start" : 1485211752099,
+      "stop" : 1485211752099,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "317642f2ee926ce5",
+    "name" : "When she moves the step 3 to step 1",
+    "title" : "When she moves the step 3 to step 1",
+    "time" : {
+      "start" : 1485211753929,
+      "stop" : 1485211753929,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "a2288c2057cbb172",
+    "name" : "And she saves the steps order",
+    "title" : "And she saves the steps order",
+    "time" : {
+      "start" : 1485211755981,
+      "stop" : 1485211755981,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "9c91ecd174813ba8",
+    "name" : "Then the step 1 is in the position 1",
+    "title" : "Then the step 1 is in the position 1",
+    "time" : {
+      "start" : 1485211756123,
+      "stop" : 1485211756123,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "2644f4eb290bbfc6",
+    "name" : "And the former step 1 is in the position 2",
+    "title" : "And the former step 1 is in the position 2",
+    "time" : {
+      "start" : 1485211756326,
+      "stop" : 1485211756326,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "e9dd151be39e1175",
+    "name" : "And the step 2 is in the position 2",
+    "title" : "And the step 2 is in the position 2",
+    "time" : {
+      "start" : 1485211756413,
+      "stop" : 1485211756413,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "5b6f105922b76c1d",
+    "name" : "And the former step 2 is in the position 3",
+    "title" : "And the former step 2 is in the position 3",
+    "time" : {
+      "start" : 1485211756502,
+      "stop" : 1485211756502,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "5cac83d69e7337c9",
+    "name" : "And the step 3 is in the position 3",
+    "title" : "And the step 3 is in the position 3",
+    "time" : {
+      "start" : 1485211756585,
+      "stop" : 1485211756585,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "9fc45d80cc6566db",
+    "name" : "And the former step 3 is in the position 1",
+    "title" : "And the former step 3 is in the position 1",
+    "time" : {
+      "start" : 1485211756705,
+      "stop" : 1485211756705,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "3196a685488e45c5",
+    "name" : "Given the admin user goes to the Tool Builder admin page",
+    "title" : "Given the admin user goes to the Tool Builder admin page",
+    "time" : {
+      "start" : 1485211605793,
+      "stop" : 1485211605795,
+      "duration" : 2
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "5c7018bc8e59d66c",
+    "name" : "And a tool definition called \"Test Tool\" exists",
+    "title" : "And a tool definition called \"Test Tool\" exists",
+    "time" : {
+      "start" : 1485211606073,
+      "stop" : 1485211606073,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "3a6c664d171a01de",
+    "name" : "And a tool definition called \"Test Tool 2\" exists",
+    "title" : "And a tool definition called \"Test Tool 2\" exists",
+    "time" : {
+      "start" : 1485211606094,
+      "stop" : 1485211606094,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "7ced5cc878b5b04c",
+    "name" : "Then the user selects \"Test Tool 2\" as default tool definition",
+    "title" : "Then the user selects \"Test Tool 2\" as default tool definition",
+    "time" : {
+      "start" : 1485211606555,
+      "stop" : 1485211606555,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "b33bb30910129f59",
+    "name" : "And the name of the selected tool definition is \"Test Tool 2\"",
+    "title" : "And the name of the selected tool definition is \"Test Tool 2\"",
+    "time" : {
+      "start" : 1485211606664,
+      "stop" : 1485211606664,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "c9af2618e9086e9d",
+    "name" : "When she goes to the Tool Instances Navigation Page",
+    "title" : "When she goes to the Tool Instances Navigation Page",
+    "time" : {
+      "start" : 1485211606987,
+      "stop" : 1485211606987,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "77f388d59a006405",
+    "name" : "And the name of the tool definition is \"Test Tool 2\"",
+    "title" : "And the name of the tool definition is \"Test Tool 2\"",
+    "time" : {
+      "start" : 1485211607052,
+      "stop" : 1485211607052,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  } ]
+}

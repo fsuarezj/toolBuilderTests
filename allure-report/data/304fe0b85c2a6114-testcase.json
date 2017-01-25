@@ -1,0 +1,53 @@
+{
+  "uid" : "304fe0b85c2a6114",
+  "name" : "When the user selects the tool instance \"My New Tool Def Instance\"",
+  "title" : "When the user selects the tool instance \"My New Tool Def Instance\"",
+  "time" : {
+    "start" : 1480764410529,
+    "stop" : 1480764410529,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "5e75e1ac09472f98",
+    "name" : "Delete associated tool instances, deselect and delete an existing Tool Definition",
+    "title" : "Delete associated tool instances, deselect and delete an existing Tool Definition"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "casiopea"
+  }, {
+    "name" : "thread",
+    "value" : "22747@casiopea.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Delete associated tool instances, deselect and delete an existing Tool Definition"
+  }, {
+    "name" : "suite-title",
+    "value" : "Delete associated tool instances, deselect and delete an existing Tool Definition"
+  }, {
+    "name" : "story",
+    "value" : "Delete associated tool instances, deselect and delete an existing Tool Definition"
+  }, {
+    "name" : "feature",
+    "value" : "Delete and Edit Management"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

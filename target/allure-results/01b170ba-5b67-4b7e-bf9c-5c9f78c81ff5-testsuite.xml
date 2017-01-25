@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1485211943119" stop="1485211953683" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Delete a tool definition with steps</name>
+    <title>Delete a tool definition with steps</title>
+    <test-cases>
+        <test-case start="1485211943120" stop="1485211943120" status="passed">
+            <name>Given the admin user is on the Tool Builder admin page</name>
+            <title>Given the admin user is on the Tool Builder admin page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211943193" stop="1485211943193" status="passed">
+            <name>And she chooses to create a new tool definition</name>
+            <title>And she chooses to create a new tool definition</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211944283" stop="1485211944283" status="passed">
+            <name>And she provides the tool definition name as "My Deleted Tool Type"</name>
+            <title>And she provides the tool definition name as "My Deleted Tool Type"</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211945365" stop="1485211945365" status="passed">
+            <name>And she adds a step of type MOCK</name>
+            <title>And she adds a step of type MOCK</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211946410" stop="1485211946410" status="passed">
+            <name>And she adds a step of type MOCK</name>
+            <title>And she adds a step of type MOCK</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211947455" stop="1485211947455" status="passed">
+            <name>And she adds a step of type MOCK</name>
+            <title>And she adds a step of type MOCK</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211947518" stop="1485211947518" status="passed">
+            <name>And she returns to the Tool Definition admin page</name>
+            <title>And she returns to the Tool Definition admin page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211948422" stop="1485211948422" status="passed">
+            <name>When she selects to delete the tool definition called "My Deleted Tool Type"</name>
+            <title>When she selects to delete the tool definition called "My Deleted Tool Type"</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211949552" stop="1485211949552" status="passed">
+            <name>And she confirms the deletion of the tool definition called "My Deleted Tool Type"</name>
+            <title>And she confirms the deletion of the tool definition called "My Deleted Tool Type"</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211949686" stop="1485211949686" status="passed">
+            <name>Then a tool definition called "My Deleted Tool Type" does not exist</name>
+            <title>Then a tool definition called "My Deleted Tool Type" does not exist</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Delete a tool definition with steps"/>
+        <label name="feature" value="Delete Tool Definition"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

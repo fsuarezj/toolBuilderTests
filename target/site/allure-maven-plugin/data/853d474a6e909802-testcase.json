@@ -1,0 +1,53 @@
+{
+  "uid" : "853d474a6e909802",
+  "name" : "And she returns to the Tool Definition admin page",
+  "title" : "And she returns to the Tool Definition admin page",
+  "time" : {
+    "start" : 1485211958612,
+    "stop" : 1485211958612,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "8283043401cb5eb3",
+    "name" : "Delete a tool definition without steps",
+    "title" : "Delete a tool definition without steps"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "11035@casiopea.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Delete a tool definition without steps"
+  }, {
+    "name" : "story",
+    "value" : "Delete a tool definition without steps"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "feature",
+    "value" : "Delete Tool Definition"
+  }, {
+    "name" : "suite-title",
+    "value" : "Delete a tool definition without steps"
+  }, {
+    "name" : "host",
+    "value" : "casiopea"
+  } ],
+  "parameters" : [ ]
+}

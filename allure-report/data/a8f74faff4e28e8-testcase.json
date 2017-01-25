@@ -1,0 +1,44 @@
+{
+  "uid" : "a8f74faff4e28e8",
+  "name" : "And she goes to the Tool Instances Navigation Page",
+  "title" : "And she goes to the Tool Instances Navigation Page",
+  "time" : {
+    "start" : 1480764305543,
+    "stop" : 1480764305543,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "8c6f62dfe0abfe8d",
+    "name" : "UnknownTestSuite",
+    "title" : "Unknown test suite"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "casiopea"
+  }, {
+    "name" : "thread",
+    "value" : "22747@casiopea.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : null
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

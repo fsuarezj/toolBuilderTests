@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1485211751062" stop="1485211759048" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Move a step to the beginning and save</name>
+    <title>Move a step to the beginning and save</title>
+    <test-cases>
+        <test-case start="1485211751062" stop="1485211751062" status="passed">
+            <name>Given the admin user is on the Tool Builder admin page</name>
+            <title>Given the admin user is on the Tool Builder admin page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211751903" stop="1485211751903" status="passed">
+            <name>And she chooses to edit the tool definition called "My editTest Tool Type"</name>
+            <title>And she chooses to edit the tool definition called "My editTest Tool Type"</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211752099" stop="1485211752099" status="passed">
+            <name>And the steps positions are defined to compare</name>
+            <title>And the steps positions are defined to compare</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211753929" stop="1485211753929" status="passed">
+            <name>When she moves the step 3 to step 1</name>
+            <title>When she moves the step 3 to step 1</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211755981" stop="1485211755981" status="passed">
+            <name>And she saves the steps order</name>
+            <title>And she saves the steps order</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211756123" stop="1485211756123" status="passed">
+            <name>Then the step 1 is in the position 1</name>
+            <title>Then the step 1 is in the position 1</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211756326" stop="1485211756326" status="passed">
+            <name>And the former step 1 is in the position 2</name>
+            <title>And the former step 1 is in the position 2</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211756413" stop="1485211756413" status="passed">
+            <name>And the step 2 is in the position 2</name>
+            <title>And the step 2 is in the position 2</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211756502" stop="1485211756502" status="passed">
+            <name>And the former step 2 is in the position 3</name>
+            <title>And the former step 2 is in the position 3</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211756585" stop="1485211756585" status="passed">
+            <name>And the step 3 is in the position 3</name>
+            <title>And the step 3 is in the position 3</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211756705" stop="1485211756705" status="passed">
+            <name>And the former step 3 is in the position 1</name>
+            <title>And the former step 3 is in the position 1</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Move a step to the beginning and save"/>
+        <label name="feature" value="Edit Tool Definition"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,53 @@
+{
+  "uid" : "b33bb30910129f59",
+  "name" : "And the name of the selected tool definition is \"Test Tool 2\"",
+  "title" : "And the name of the selected tool definition is \"Test Tool 2\"",
+  "time" : {
+    "start" : 1485211606664,
+    "stop" : 1485211606664,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "fed195a740bea8ce",
+    "name" : "Choose an existing Tool Definition",
+    "title" : "Choose an existing Tool Definition"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Choose an existing Tool Definition"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "11035@casiopea.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Choose an existing Tool Definition"
+  }, {
+    "name" : "suite-title",
+    "value" : "Choose an existing Tool Definition"
+  }, {
+    "name" : "feature",
+    "value" : "Choosing Tool Definition"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "casiopea"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1485211978343" stop="1485211981454" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Try to edit or delete the selected Tool Definition with tool instances associated</name>
+    <title>Try to edit or delete the selected Tool Definition with tool instances associated</title>
+    <test-cases>
+        <test-case start="1485211978343" stop="1485211978343" status="passed">
+            <name>Given the admin user is on the Tool Builder admin page</name>
+            <title>Given the admin user is on the Tool Builder admin page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211978455" stop="1485211978455" status="passed">
+            <name>When the name of the selected tool definition is "My New Tool Type"</name>
+            <title>When the name of the selected tool definition is "My New Tool Type"</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211979158" stop="1485211979158" status="passed">
+            <name>Then a tooltip message with text "unselect-or-delete-instances-to-configure-delete-tooldef" is shown for the buttons on tool definition "My New Tool Type"</name>
+            <title>Then a tooltip message with text "unselect-or-delete-instances-to-configure-delete-tooldef" is shown for the buttons on tool definition "My New Tool Type"</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211979218" stop="1485211979218" status="passed">
+            <name>And the button to delete the tool definition called "My New Tool Type" is disabled</name>
+            <title>And the button to delete the tool definition called "My New Tool Type" is disabled</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211979276" stop="1485211979276" status="passed">
+            <name>And the button to configure the tool definition called "My New Tool Type" is disabled</name>
+            <title>And the button to configure the tool definition called "My New Tool Type" is disabled</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Try to edit or delete the selected Tool Definition with tool instances associated"/>
+        <label name="feature" value="Delete and Edit Management"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

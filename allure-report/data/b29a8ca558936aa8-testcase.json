@@ -1,0 +1,53 @@
+{
+  "uid" : "b29a8ca558936aa8",
+  "name" : "And she returns to the Tool Definition admin page",
+  "title" : "And she returns to the Tool Definition admin page",
+  "time" : {
+    "start" : 1480764368586,
+    "stop" : 1480764368586,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "9d4a1146b49a3018",
+    "name" : "Edit an existing Tool Definition",
+    "title" : "Edit an existing Tool Definition"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "casiopea"
+  }, {
+    "name" : "thread",
+    "value" : "22747@casiopea.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Edit an existing Tool Definition"
+  }, {
+    "name" : "suite-title",
+    "value" : "Edit an existing Tool Definition"
+  }, {
+    "name" : "story",
+    "value" : "Edit an existing Tool Definition"
+  }, {
+    "name" : "feature",
+    "value" : "Edit Tool Definition"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

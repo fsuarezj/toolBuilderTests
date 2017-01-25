@@ -1,0 +1,53 @@
+{
+  "uid" : "4a88b3b91484b97c",
+  "name" : "And she provides the tool definition name as \"My New Tool Type 2\"",
+  "title" : "And she provides the tool definition name as \"My New Tool Type 2\"",
+  "time" : {
+    "start" : 1485211675549,
+    "stop" : 1485211675549,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "3bfcda32241180f",
+    "name" : "Try to create an existing Tool Definition and change the name",
+    "title" : "Try to create an existing Tool Definition and change the name"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : "Try to create an existing Tool Definition and change the name"
+  }, {
+    "name" : "thread",
+    "value" : "11035@casiopea.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Create Tool Definition"
+  }, {
+    "name" : "story",
+    "value" : "Try to create an existing Tool Definition and change the name"
+  }, {
+    "name" : "suite-name",
+    "value" : "Try to create an existing Tool Definition and change the name"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "casiopea"
+  } ],
+  "parameters" : [ ]
+}

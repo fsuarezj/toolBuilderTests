@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1485211627853" stop="1485211632573" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>A non-admin logged user cannot access tool-definition portlet</name>
+    <title>A non-admin logged user cannot access tool-definition portlet</title>
+    <test-cases>
+        <test-case start="1485211627853" stop="1485211627853" status="passed">
+            <name>Given the user goes to the Tool Instances Navigation Page</name>
+            <title>Given the user goes to the Tool Instances Navigation Page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211628263" stop="1485211628263" status="passed">
+            <name>And he logs in the system as test@guerrillamail.com with password test</name>
+            <title>And he logs in the system as test@guerrillamail.com with password test</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211630078" stop="1485211630078" status="passed">
+            <name>When he goes to the page http://localhost:8080/group/control_panel/manage?p_p_id=tooldefinition_WAR_toolBuilderportlet</name>
+            <title>When he goes to the page http://localhost:8080/group/control_panel/manage?p_p_id=tooldefinition_WAR_toolBuilderportlet</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211630095" stop="1485211630095" status="passed">
+            <name>Then the page was not found</name>
+            <title>Then the page was not found</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="A non-admin logged user cannot access tool-definition portlet"/>
+        <label name="feature" value="Choosing Tool Definition"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viewpoint:DAnalysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description" xmi:id="_ifFr8NVMEeazqIggHUJPRQ" selectedViews="_NcIvMNVPEeaNSPF6R3ZsUg" version="10.1.0.201509162000">
+  <semanticResources>src/test/resources/adminPortlet/10ChooseToolDef.feature</semanticResources>
+  <semanticResources>src/test/resources/adminPortlet/20NewToolDef.feature</semanticResources>
+  <semanticResources>src/test/resources/test/test.feature</semanticResources>
+  <semanticResources>src/test/resources/toolInstances/10NewToolInstance.feature</semanticResources>
+  <semanticResources>src/test/resources/toolInstances/20DeleteToolInstance.feature</semanticResources>
+  <semanticResources>src/test/resources/toolInstances/30NavigateThroughSteps.feature</semanticResources>
+  <semanticResources>testing_framework.uml</semanticResources>
+  <semanticResources>src/test/resources/adminPortlet/40EditToolDef.feature</semanticResources>
+  <semanticResources>src/test/resources/adminPortlet/50DeleteToolDef.feature</semanticResources>
+  <semanticResources>src/test/resources/adminPortlet/60ToolDeleteEditRestrictions.feature</semanticResources>
+  <semanticResources>src/test/resources/adminPortlet/30DeleteStepDef.feature</semanticResources>
+  <ownedViews xmi:type="viewpoint:DRepresentationContainer" xmi:id="_NcIvMNVPEeaNSPF6R3ZsUg">
+    <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Reused']"/>
+  </ownedViews>
+</viewpoint:DAnalysis>

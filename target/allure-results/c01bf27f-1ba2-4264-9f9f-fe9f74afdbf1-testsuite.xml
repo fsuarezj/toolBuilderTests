@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1485211656526" stop="1485211662702" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Use new Tool Definition</name>
+    <title>Use new Tool Definition</title>
+    <test-cases>
+        <test-case start="1485211656527" stop="1485211656527" status="passed">
+            <name>Given the user is on the Tool Instances Navigation Page</name>
+            <title>Given the user is on the Tool Instances Navigation Page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211656866" stop="1485211656866" status="passed">
+            <name>And she logs in the system as test@guerrillamail.com with password test</name>
+            <title>And she logs in the system as test@guerrillamail.com with password test</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211657702" stop="1485211657702" status="passed">
+            <name>And the name of the tool definition is "My New Tool Type"</name>
+            <title>And the name of the tool definition is "My New Tool Type"</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211659202" stop="1485211659202" status="passed">
+            <name>When the user creates a tool instance called "My New Tool Def Instance"</name>
+            <title>When the user creates a tool instance called "My New Tool Def Instance"</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211659809" stop="1485211659809" status="passed">
+            <name>And she selects the tool instance "My New Tool Def Instance"</name>
+            <title>And she selects the tool instance "My New Tool Def Instance"</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211659857" stop="1485211659857" status="passed">
+            <name>When she chooses to step forward</name>
+            <title>When she chooses to step forward</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211659885" stop="1485211659885" status="passed">
+            <name>When she chooses to step forward</name>
+            <title>When she chooses to step forward</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211659911" stop="1485211659911" status="passed">
+            <name>When she chooses to step forward</name>
+            <title>When she chooses to step forward</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211659930" stop="1485211659930" status="passed">
+            <name>When she chooses to step forward</name>
+            <title>When she chooses to step forward</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211659961" stop="1485211659961" status="passed">
+            <name>And she returns to the Tool Instances Navigation Page</name>
+            <title>And she returns to the Tool Instances Navigation Page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211660348" stop="1485211660348" status="passed">
+            <name>Then the tool instance called "My New Tool Def Instance" is on step 3</name>
+            <title>Then the tool instance called "My New Tool Def Instance" is on step 3</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Use new Tool Definition"/>
+        <label name="feature" value="Create Tool Definition"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

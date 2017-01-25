@@ -1,0 +1,53 @@
+{
+  "uid" : "e34d377b7d8142b9",
+  "name" : "When the user chooses to edit the tool definition called \"My New Tool Type 2\"",
+  "title" : "When the user chooses to edit the tool definition called \"My New Tool Type 2\"",
+  "time" : {
+    "start" : 1480764362448,
+    "stop" : 1480764362448,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "624ce3f03360c76e",
+    "name" : "Edit an existing Tool Definition",
+    "title" : "Edit an existing Tool Definition"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "casiopea"
+  }, {
+    "name" : "thread",
+    "value" : "22747@casiopea.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Edit an existing Tool Definition"
+  }, {
+    "name" : "suite-title",
+    "value" : "Edit an existing Tool Definition"
+  }, {
+    "name" : "story",
+    "value" : "Edit an existing Tool Definition"
+  }, {
+    "name" : "feature",
+    "value" : "Edit Tool Definition"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

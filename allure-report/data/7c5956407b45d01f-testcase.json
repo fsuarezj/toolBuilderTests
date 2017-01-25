@@ -1,0 +1,53 @@
+{
+  "uid" : "7c5956407b45d01f",
+  "name" : "And the button to delete the tool definition called \"My New Tool Type\" is disabled",
+  "title" : "And the button to delete the tool definition called \"My New Tool Type\" is disabled",
+  "time" : {
+    "start" : 1480764394935,
+    "stop" : 1480764394935,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "2e891f739ade24f5",
+    "name" : "Try to edit or delete a non-selected Tool Definition with tool instances associated",
+    "title" : "Try to edit or delete a non-selected Tool Definition with tool instances associated"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "casiopea"
+  }, {
+    "name" : "thread",
+    "value" : "22747@casiopea.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Try to edit or delete a non-selected Tool Definition with tool instances associated"
+  }, {
+    "name" : "suite-title",
+    "value" : "Try to edit or delete a non-selected Tool Definition with tool instances associated"
+  }, {
+    "name" : "story",
+    "value" : "Try to edit or delete a non-selected Tool Definition with tool instances associated"
+  }, {
+    "name" : "feature",
+    "value" : "Delete and Edit Management"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

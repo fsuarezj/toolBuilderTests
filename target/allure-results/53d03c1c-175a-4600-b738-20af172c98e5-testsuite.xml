@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1485211816172" stop="1485211851391" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Delete all existing step definitions</name>
+    <title>Delete all existing step definitions</title>
+    <test-cases>
+        <test-case start="1485211816173" stop="1485211816173" status="passed">
+            <name>Given the admin user is on the Tool Builder admin page</name>
+            <title>Given the admin user is on the Tool Builder admin page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211817518" stop="1485211817518" status="passed">
+            <name>And she chooses to edit the tool definition called "My editTest Tool Type"</name>
+            <title>And she chooses to edit the tool definition called "My editTest Tool Type"</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211817587" stop="1485211817588" status="passed">
+            <name>When she clicks to delete the step 2</name>
+            <title>When she clicks to delete the step 2</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211818242" stop="1485211818242" status="passed">
+            <name>And she confirms the step deletion</name>
+            <title>And she confirms the step deletion</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211818299" stop="1485211818299" status="passed">
+            <name>And she clicks to delete the step 1</name>
+            <title>And she clicks to delete the step 1</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211818906" stop="1485211818906" status="passed">
+            <name>And she confirms the step deletion</name>
+            <title>And she confirms the step deletion</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211849185" stop="1485211849185" status="passed">
+            <name>Then the current tool definition has 0 step definitions</name>
+            <title>Then the current tool definition has 0 step definitions</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Delete all existing step definitions"/>
+        <label name="feature" value="Delete Step Definitions"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

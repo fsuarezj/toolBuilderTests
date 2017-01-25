@@ -1,0 +1,53 @@
+{
+  "uid" : "2bfe7ec14ce5bf76",
+  "name" : "And she provides the tool definition name as \"My editTest Tool Type\"",
+  "title" : "And she provides the tool definition name as \"My editTest Tool Type\"",
+  "time" : {
+    "start" : 1485211802966,
+    "stop" : 1485211802966,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "cd8dfdf8115f68d6",
+    "name" : "Delete an existing step definition",
+    "title" : "Delete an existing step definition"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-title",
+    "value" : "Delete an existing step definition"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "11035@casiopea.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Delete Step Definitions"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "suite-name",
+    "value" : "Delete an existing step definition"
+  }, {
+    "name" : "story",
+    "value" : "Delete an existing step definition"
+  }, {
+    "name" : "host",
+    "value" : "casiopea"
+  } ],
+  "parameters" : [ ]
+}

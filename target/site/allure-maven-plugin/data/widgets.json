@@ -1,0 +1,200 @@
+{
+  "hash" : "9ae4a52f46fbba0c959575303f697deb73e72d63",
+  "data" : [ {
+    "statistic" : {
+      "total" : 252,
+      "passed" : 252,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "time" : {
+      "start" : 1485211605793,
+      "stop" : 1485212009615,
+      "duration" : 403822
+    },
+    "name" : "total",
+    "type" : "TOTAL"
+  }, {
+    "name" : "defects",
+    "type" : "DEFECTS",
+    "data" : [ {
+      "count" : 0,
+      "message" : "There are no defects!",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "name" : "xunit",
+    "type" : "TITLE_STATISTICS",
+    "data" : [ {
+      "title" : "Delete an existing step definition",
+      "statistic" : {
+        "total" : 15,
+        "passed" : 15,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      }
+    }, {
+      "title" : "Delete associated tool instances, deselect and delete an existing Tool Definition",
+      "statistic" : {
+        "total" : 15,
+        "passed" : 15,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      }
+    }, {
+      "title" : "Move a step and do not save",
+      "statistic" : {
+        "total" : 14,
+        "passed" : 14,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      }
+    }, {
+      "title" : "Move a step forward without saving",
+      "statistic" : {
+        "total" : 13,
+        "passed" : 13,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      }
+    }, {
+      "title" : "Move a step backward and save",
+      "statistic" : {
+        "total" : 12,
+        "passed" : 12,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      }
+    }, {
+      "title" : "Move a step forward and save",
+      "statistic" : {
+        "total" : 12,
+        "passed" : 12,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      }
+    }, {
+      "title" : "Move a step to the end and save",
+      "statistic" : {
+        "total" : 11,
+        "passed" : 11,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      }
+    }, {
+      "title" : "Use new Tool Definition",
+      "statistic" : {
+        "total" : 11,
+        "passed" : 11,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      }
+    }, {
+      "title" : "Move a new added step",
+      "statistic" : {
+        "total" : 11,
+        "passed" : 11,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      }
+    }, {
+      "title" : "Move a step to the beginning and save",
+      "statistic" : {
+        "total" : 11,
+        "passed" : 11,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      }
+    } ]
+  }, {
+    "name" : "behaviors",
+    "type" : "TITLE_STATISTICS",
+    "data" : [ {
+      "title" : "Choosing Tool Definition",
+      "statistic" : {
+        "total" : 20,
+        "passed" : 20,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      }
+    }, {
+      "title" : "Create Tool Definition",
+      "statistic" : {
+        "total" : 40,
+        "passed" : 40,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      }
+    }, {
+      "title" : "Delete Step Definitions",
+      "statistic" : {
+        "total" : 39,
+        "passed" : 39,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      }
+    }, {
+      "title" : "Delete Tool Definition",
+      "statistic" : {
+        "total" : 26,
+        "passed" : 26,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      }
+    }, {
+      "title" : "Delete and Edit Management",
+      "statistic" : {
+        "total" : 34,
+        "passed" : 34,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      }
+    }, {
+      "title" : "Edit Tool Definition",
+      "statistic" : {
+        "total" : 93,
+        "passed" : 93,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      }
+    } ]
+  }, {
+    "name" : "environment",
+    "type" : "KEY_VALUE",
+    "data" : [ ]
+  } ]
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "5a13bdf5aa738f22",
+  "name" : "And she confirms the step deletion",
+  "title" : "And she confirms the step deletion",
+  "time" : {
+    "start" : 1485211818906,
+    "stop" : 1485211818906,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "3f3a7eb344489869",
+    "name" : "Delete all existing step definitions",
+    "title" : "Delete all existing step definitions"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "11035@casiopea.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : "Delete all existing step definitions"
+  }, {
+    "name" : "feature",
+    "value" : "Delete Step Definitions"
+  }, {
+    "name" : "story",
+    "value" : "Delete all existing step definitions"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "suite-name",
+    "value" : "Delete all existing step definitions"
+  }, {
+    "name" : "host",
+    "value" : "casiopea"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,203 @@
+{
+  "hash" : "e7105c43ada45c9f6e0006854ef1a1d95249231d",
+  "plugins" : {
+    "total" : {
+      "statistic" : {
+        "total" : 105,
+        "passed" : 105,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "time" : {
+        "start" : 1480764290481,
+        "stop" : 1480764416156,
+        "duration" : 125675
+      }
+    },
+    "defects" : {
+      "totalCount" : 0,
+      "items" : [ ]
+    },
+    "xunit" : {
+      "totalCount" : 12,
+      "items" : [ {
+        "uid" : "cb8751d8fba6d388",
+        "title" : "Create a new Tool Definition",
+        "statistic" : {
+          "total" : 5,
+          "passed" : 5,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "73aa3607279b5836",
+        "title" : "Create an existing Tool Definition",
+        "statistic" : {
+          "total" : 5,
+          "passed" : 5,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "9e601e8a5056619c",
+        "title" : "Delete an existing Tool Definition",
+        "statistic" : {
+          "total" : 9,
+          "passed" : 9,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "eedcb603f49f4f00",
+        "title" : "Delete associated tool instances, deselect and delete an existing Tool Definition",
+        "statistic" : {
+          "total" : 15,
+          "passed" : 15,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "624ce3f03360c76e",
+        "title" : "Edit an existing Tool Definition",
+        "statistic" : {
+          "total" : 8,
+          "passed" : 8,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "1cdb4419f1c6957a",
+        "title" : "Try to create an existing Tool Definition and change the name",
+        "statistic" : {
+          "total" : 10,
+          "passed" : 10,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "992f5c484fca1456",
+        "title" : "Try to edit or delete a non-selected Tool Definition with tool instances associated",
+        "statistic" : {
+          "total" : 7,
+          "passed" : 7,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "7e494bedea5fb9bf",
+        "title" : "Try to edit or delete the selected Tool Definition without tool instances associated",
+        "statistic" : {
+          "total" : 7,
+          "passed" : 7,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "2f9bff26c3617c9f",
+        "title" : "Unknown test suite",
+        "statistic" : {
+          "total" : 16,
+          "passed" : 16,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "5423268525a4820a",
+        "title" : "Use new Tool Definition",
+        "statistic" : {
+          "total" : 11,
+          "passed" : 11,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      } ]
+    },
+    "behaviors" : {
+      "totalCount" : 6,
+      "items" : [ {
+        "title" : "Choosing Tool Definition",
+        "statistic" : {
+          "total" : 7,
+          "passed" : 7,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "title" : "Create Tool Definition",
+        "statistic" : {
+          "total" : 31,
+          "passed" : 31,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "title" : "Delete Tool Definition",
+        "statistic" : {
+          "total" : 9,
+          "passed" : 9,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "title" : "Delete and Edit Management",
+        "statistic" : {
+          "total" : 34,
+          "passed" : 34,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "title" : "Edit Tool Definition",
+        "statistic" : {
+          "total" : 8,
+          "passed" : 8,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "title" : "Without feature",
+        "statistic" : {
+          "total" : 16,
+          "passed" : 16,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      } ]
+    },
+    "environment" : [ ]
+  }
+}

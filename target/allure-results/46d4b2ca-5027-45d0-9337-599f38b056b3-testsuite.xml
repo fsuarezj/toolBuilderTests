@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1485211801893" stop="1485211812785" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Delete an existing step definition</name>
+    <title>Delete an existing step definition</title>
+    <test-cases>
+        <test-case start="1485211801893" stop="1485211801893" status="passed">
+            <name>Given the admin user is on the Tool Builder admin page</name>
+            <title>Given the admin user is on the Tool Builder admin page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211801979" stop="1485211801979" status="passed">
+            <name>And she chooses to create a new tool definition</name>
+            <title>And she chooses to create a new tool definition</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211802966" stop="1485211802966" status="passed">
+            <name>And she provides the tool definition name as "My editTest Tool Type"</name>
+            <title>And she provides the tool definition name as "My editTest Tool Type"</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211804033" stop="1485211804033" status="passed">
+            <name>And she adds a step of type MOCK</name>
+            <title>And she adds a step of type MOCK</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211805055" stop="1485211805055" status="passed">
+            <name>And she adds a step of type MOCK</name>
+            <title>And she adds a step of type MOCK</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211806048" stop="1485211806048" status="passed">
+            <name>And she adds a step of type MOCK</name>
+            <title>And she adds a step of type MOCK</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211806132" stop="1485211806132" status="passed">
+            <name>And she returns to the Tool Definition admin page</name>
+            <title>And she returns to the Tool Definition admin page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211807166" stop="1485211807166" status="passed">
+            <name>And she chooses to edit the tool definition called "My editTest Tool Type"</name>
+            <title>And she chooses to edit the tool definition called "My editTest Tool Type"</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211807238" stop="1485211807239" status="passed">
+            <name>And the current tool definition has 3 step definitions</name>
+            <title>And the current tool definition has 3 step definitions</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211807347" stop="1485211807347" status="passed">
+            <name>And the steps positions are defined to compare</name>
+            <title>And the steps positions are defined to compare</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211807395" stop="1485211807395" status="passed">
+            <name>When she clicks to delete the step 2</name>
+            <title>When she clicks to delete the step 2</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211808081" stop="1485211808081" status="passed">
+            <name>And she confirms the step deletion</name>
+            <title>And she confirms the step deletion</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211810133" stop="1485211810133" status="passed">
+            <name>And she saves the steps order</name>
+            <title>And she saves the steps order</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211810272" stop="1485211810272" status="passed">
+            <name>And the former step 3 is in the position 2</name>
+            <title>And the former step 3 is in the position 2</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211810316" stop="1485211810316" status="passed">
+            <name>And the current tool definition has 2 step definitions</name>
+            <title>And the current tool definition has 2 step definitions</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Delete an existing step definition"/>
+        <label name="feature" value="Delete Step Definitions"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

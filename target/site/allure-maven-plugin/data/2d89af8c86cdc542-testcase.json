@@ -1,0 +1,53 @@
+{
+  "uid" : "2d89af8c86cdc542",
+  "name" : "And she adds a step of type MOCK",
+  "title" : "And she adds a step of type MOCK",
+  "time" : {
+    "start" : 1485211781100,
+    "stop" : 1485211781100,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "9e65b1cbff4de220",
+    "name" : "Move a step and add another step",
+    "title" : "Move a step and add another step"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "11035@casiopea.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Edit Tool Definition"
+  }, {
+    "name" : "suite-title",
+    "value" : "Move a step and add another step"
+  }, {
+    "name" : "suite-name",
+    "value" : "Move a step and add another step"
+  }, {
+    "name" : "story",
+    "value" : "Move a step and add another step"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "casiopea"
+  } ],
+  "parameters" : [ ]
+}

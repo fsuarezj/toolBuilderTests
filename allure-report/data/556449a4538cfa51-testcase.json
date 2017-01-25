@@ -1,0 +1,53 @@
+{
+  "uid" : "556449a4538cfa51",
+  "name" : "Then a tool definition called \"My New Tool Type 2\" does not exist",
+  "title" : "Then a tool definition called \"My New Tool Type 2\" does not exist",
+  "time" : {
+    "start" : 1480764378501,
+    "stop" : 1480764378501,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "fa7b91039ccc1f08",
+    "name" : "Delete an existing Tool Definition",
+    "title" : "Delete an existing Tool Definition"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "casiopea"
+  }, {
+    "name" : "thread",
+    "value" : "22747@casiopea.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Delete an existing Tool Definition"
+  }, {
+    "name" : "suite-title",
+    "value" : "Delete an existing Tool Definition"
+  }, {
+    "name" : "story",
+    "value" : "Delete an existing Tool Definition"
+  }, {
+    "name" : "feature",
+    "value" : "Delete Tool Definition"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

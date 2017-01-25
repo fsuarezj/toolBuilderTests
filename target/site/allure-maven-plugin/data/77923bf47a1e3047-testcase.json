@@ -1,0 +1,53 @@
+{
+  "uid" : "77923bf47a1e3047",
+  "name" : "When she moves the step 1 to step 3",
+  "title" : "When she moves the step 1 to step 3",
+  "time" : {
+    "start" : 1485211767848,
+    "stop" : 1485211767848,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "532a903077cd2c79",
+    "name" : "Move a step to the end and save",
+    "title" : "Move a step to the end and save"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "11035@casiopea.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Edit Tool Definition"
+  }, {
+    "name" : "story",
+    "value" : "Move a step to the end and save"
+  }, {
+    "name" : "suite-name",
+    "value" : "Move a step to the end and save"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "suite-title",
+    "value" : "Move a step to the end and save"
+  }, {
+    "name" : "host",
+    "value" : "casiopea"
+  } ],
+  "parameters" : [ ]
+}

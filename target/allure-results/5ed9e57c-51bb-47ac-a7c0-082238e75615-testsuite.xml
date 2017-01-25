@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1485212001588" stop="1485212011998" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Delete associated tool instances, deselect and delete an existing Tool Definition</name>
+    <title>Delete associated tool instances, deselect and delete an existing Tool Definition</title>
+    <test-cases>
+        <test-case start="1485212001588" stop="1485212001588" status="passed">
+            <name>Given the admin user is on the Tool Builder admin page</name>
+            <title>Given the admin user is on the Tool Builder admin page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485212003162" stop="1485212003162" status="passed">
+            <name>And she selects "My New Tool Type" as default tool definition</name>
+            <title>And she selects "My New Tool Type" as default tool definition</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485212003461" stop="1485212003461" status="passed">
+            <name>And she goes to the Tool Instances Navigation Page</name>
+            <title>And she goes to the Tool Instances Navigation Page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485212003521" stop="1485212003521" status="passed">
+            <name>And a tool instance called "My New Tool Def Instance" exists</name>
+            <title>And a tool instance called "My New Tool Def Instance" exists</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485212003690" stop="1485212003690" status="passed">
+            <name>When the user selects the tool instance "My New Tool Def Instance"</name>
+            <title>When the user selects the tool instance "My New Tool Def Instance"</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485212003753" stop="1485212003753" status="passed">
+            <name>And she deletes the current tool instance</name>
+            <title>And she deletes the current tool instance</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485212004792" stop="1485212004792" status="passed">
+            <name>And she logs out</name>
+            <title>And she logs out</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485212006799" stop="1485212006799" status="passed">
+            <name>And the admin user goes to the Tool Builder admin page</name>
+            <title>And the admin user goes to the Tool Builder admin page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485212007474" stop="1485212007474" status="passed">
+            <name>And a tooltip message with text "unselect-or-delete-instances-to-configure-delete-tooldef" is shown for the buttons on tool definition "My New Tool Type"</name>
+            <title>And a tooltip message with text "unselect-or-delete-instances-to-configure-delete-tooldef" is shown for the buttons on tool definition "My New Tool Type"</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485212008170" stop="1485212008170" status="passed">
+            <name>And the user selects "Test Tool" as default tool definition</name>
+            <title>And the user selects "Test Tool" as default tool definition</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485212008259" stop="1485212008259" status="passed">
+            <name>And the button to delete the tool definition called "My New Tool Type" is enabled</name>
+            <title>And the button to delete the tool definition called "My New Tool Type" is enabled</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485212008321" stop="1485212008321" status="passed">
+            <name>And the button to configure the tool definition called "My New Tool Type" is enabled</name>
+            <title>And the button to configure the tool definition called "My New Tool Type" is enabled</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485212008432" stop="1485212008432" status="passed">
+            <name>And she selects to delete the tool definition called "My New Tool Type"</name>
+            <title>And she selects to delete the tool definition called "My New Tool Type"</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485212009546" stop="1485212009546" status="passed">
+            <name>And she confirms the deletion</name>
+            <title>And she confirms the deletion</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485212009615" stop="1485212009615" status="passed">
+            <name>Then a tool definition called "My New Tool Type" does not exist</name>
+            <title>Then a tool definition called "My New Tool Type" does not exist</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Delete associated tool instances, deselect and delete an existing Tool Definition"/>
+        <label name="feature" value="Delete and Edit Management"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

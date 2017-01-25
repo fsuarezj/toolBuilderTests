@@ -1,0 +1,53 @@
+{
+  "uid" : "fb439a8f55d63f6a",
+  "name" : "When the user goes to the page http://localhost:8080/group/control_panel/manage?p_p_id=tooldefinition_WAR_toolBuilderportlet",
+  "title" : "When the user goes to the page http://localhost:8080/group/control_panel/manage?p_p_id=tooldefinition_WAR_toolBuilderportlet",
+  "time" : {
+    "start" : 1485211623466,
+    "stop" : 1485211623466,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "ee785f96da78ba57",
+    "name" : "An anonymous user canoot access tool-definition portlet",
+    "title" : "An anonymous user canoot access tool-definition portlet"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "An anonymous user canoot access tool-definition portlet"
+  }, {
+    "name" : "thread",
+    "value" : "11035@casiopea.main(1)"
+  }, {
+    "name" : "story",
+    "value" : "An anonymous user canoot access tool-definition portlet"
+  }, {
+    "name" : "suite-title",
+    "value" : "An anonymous user canoot access tool-definition portlet"
+  }, {
+    "name" : "feature",
+    "value" : "Choosing Tool Definition"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "casiopea"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1485211605728" stop="1485211611738" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Choose an existing Tool Definition</name>
+    <title>Choose an existing Tool Definition</title>
+    <test-cases>
+        <test-case start="1485211605793" stop="1485211605795" status="passed">
+            <name>Given the admin user goes to the Tool Builder admin page</name>
+            <title>Given the admin user goes to the Tool Builder admin page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211606073" stop="1485211606073" status="passed">
+            <name>And a tool definition called "Test Tool" exists</name>
+            <title>And a tool definition called "Test Tool" exists</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211606094" stop="1485211606094" status="passed">
+            <name>And a tool definition called "Test Tool 2" exists</name>
+            <title>And a tool definition called "Test Tool 2" exists</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211606555" stop="1485211606555" status="passed">
+            <name>Then the user selects "Test Tool 2" as default tool definition</name>
+            <title>Then the user selects "Test Tool 2" as default tool definition</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211606664" stop="1485211606664" status="passed">
+            <name>And the name of the selected tool definition is "Test Tool 2"</name>
+            <title>And the name of the selected tool definition is "Test Tool 2"</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211606987" stop="1485211606987" status="passed">
+            <name>When she goes to the Tool Instances Navigation Page</name>
+            <title>When she goes to the Tool Instances Navigation Page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211607052" stop="1485211607052" status="passed">
+            <name>And the name of the tool definition is "Test Tool 2"</name>
+            <title>And the name of the tool definition is "Test Tool 2"</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Choose an existing Tool Definition"/>
+        <label name="feature" value="Choosing Tool Definition"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

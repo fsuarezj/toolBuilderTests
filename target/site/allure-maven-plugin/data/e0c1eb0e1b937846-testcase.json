@@ -1,0 +1,53 @@
+{
+  "uid" : "e0c1eb0e1b937846",
+  "name" : "And the steps positions are defined to compare",
+  "title" : "And the steps positions are defined to compare",
+  "time" : {
+    "start" : 1485211752099,
+    "stop" : 1485211752099,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "fcce5442d961812",
+    "name" : "Move a step to the beginning and save",
+    "title" : "Move a step to the beginning and save"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "11035@casiopea.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Edit Tool Definition"
+  }, {
+    "name" : "story",
+    "value" : "Move a step to the beginning and save"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "suite-name",
+    "value" : "Move a step to the beginning and save"
+  }, {
+    "name" : "suite-title",
+    "value" : "Move a step to the beginning and save"
+  }, {
+    "name" : "host",
+    "value" : "casiopea"
+  } ],
+  "parameters" : [ ]
+}

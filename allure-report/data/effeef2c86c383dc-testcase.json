@@ -1,0 +1,53 @@
+{
+  "uid" : "effeef2c86c383dc",
+  "name" : "And she confirms the deletion",
+  "title" : "And she confirms the deletion",
+  "time" : {
+    "start" : 1480764377149,
+    "stop" : 1480764377149,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "66f5368a8c196bf3",
+    "name" : "Delete an existing Tool Definition",
+    "title" : "Delete an existing Tool Definition"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "casiopea"
+  }, {
+    "name" : "thread",
+    "value" : "22747@casiopea.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Delete an existing Tool Definition"
+  }, {
+    "name" : "suite-title",
+    "value" : "Delete an existing Tool Definition"
+  }, {
+    "name" : "story",
+    "value" : "Delete an existing Tool Definition"
+  }, {
+    "name" : "feature",
+    "value" : "Delete Tool Definition"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

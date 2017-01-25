@@ -1,0 +1,53 @@
+{
+  "uid" : "a9b70866dcf66057",
+  "name" : "Given the admin user is on the Tool Builder admin page",
+  "title" : "Given the admin user is on the Tool Builder admin page",
+  "time" : {
+    "start" : 1480764374933,
+    "stop" : 1480764374933,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "8b56cfb73dcd63bf",
+    "name" : "Delete an existing Tool Definition",
+    "title" : "Delete an existing Tool Definition"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "casiopea"
+  }, {
+    "name" : "thread",
+    "value" : "22747@casiopea.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Delete an existing Tool Definition"
+  }, {
+    "name" : "suite-title",
+    "value" : "Delete an existing Tool Definition"
+  }, {
+    "name" : "story",
+    "value" : "Delete an existing Tool Definition"
+  }, {
+    "name" : "feature",
+    "value" : "Delete Tool Definition"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1485211895070" stop="1485211932722" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Delete a newly created step definition of a newly created tool definition</name>
+    <title>Delete a newly created step definition of a newly created tool definition</title>
+    <test-cases>
+        <test-case start="1485211895071" stop="1485211895071" status="passed">
+            <name>Given the admin user is on the Tool Builder admin page</name>
+            <title>Given the admin user is on the Tool Builder admin page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211895153" stop="1485211895153" status="passed">
+            <name>And she chooses to create a new tool definition</name>
+            <title>And she chooses to create a new tool definition</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211896060" stop="1485211896060" status="passed">
+            <name>And she provides the tool definition name as "My editTest Tool Type 2"</name>
+            <title>And she provides the tool definition name as "My editTest Tool Type 2"</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211897125" stop="1485211897125" status="passed">
+            <name>And she adds a step of type MOCK</name>
+            <title>And she adds a step of type MOCK</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211897199" stop="1485211897200" status="passed">
+            <name>When she clicks to delete the step 1</name>
+            <title>When she clicks to delete the step 1</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211897813" stop="1485211897813" status="passed">
+            <name>And she confirms the step deletion</name>
+            <title>And she confirms the step deletion</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211897885" stop="1485211897885" status="passed">
+            <name>And she returns to the Tool Definition admin page</name>
+            <title>And she returns to the Tool Definition admin page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211898825" stop="1485211898825" status="passed">
+            <name>And she chooses to edit the tool definition called "My editTest Tool Type 2"</name>
+            <title>And she chooses to edit the tool definition called "My editTest Tool Type 2"</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485211929080" stop="1485211929080" status="passed">
+            <name>Then the current tool definition has 0 step definitions</name>
+            <title>Then the current tool definition has 0 step definitions</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="casiopea"/>
+                <label name="thread" value="11035@casiopea.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Delete a newly created step definition of a newly created tool definition"/>
+        <label name="feature" value="Delete Step Definitions"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

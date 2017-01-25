@@ -1,0 +1,53 @@
+{
+  "uid" : "9ddeaddbcffee05",
+  "name" : "Then the page was not found",
+  "title" : "Then the page was not found",
+  "time" : {
+    "start" : 1485211630095,
+    "stop" : 1485211630095,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "94720272470bf7ae",
+    "name" : "A non-admin logged user cannot access tool-definition portlet",
+    "title" : "A non-admin logged user cannot access tool-definition portlet"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "A non-admin logged user cannot access tool-definition portlet"
+  }, {
+    "name" : "suite-name",
+    "value" : "A non-admin logged user cannot access tool-definition portlet"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "11035@casiopea.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Choosing Tool Definition"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "suite-title",
+    "value" : "A non-admin logged user cannot access tool-definition portlet"
+  }, {
+    "name" : "host",
+    "value" : "casiopea"
+  } ],
+  "parameters" : [ ]
+}
